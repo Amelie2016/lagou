@@ -1,0 +1,99 @@
+*{
+	padding: 0;margin:0;
+}
+html{
+	font-size: 20px;
+}
+/*消息列表的头部*/
+.messageHeader{
+	padding: 1.2rem 0 .5rem 0;
+	background: #f0f1f5;
+	text-align: center;
+	font-size: .9rem;
+	border-bottom: 1px solid #b2b2b2;
+}
+/*下边的内容*/
+.messageMain{
+	background: #f8f8f8;
+	height: 100vh;
+}
+/*三个小nav*/
+.messageNav{
+	background: white;
+	height: 3.3rem;
+	box-sibling:border-box;
+	margin-bottom: .5rem;
+	padding:.5rem;
+	font-size: .5rem;
+	color:#a5a5a5;
+	display: flex;
+	justify-content:space-around;
+}
+.messageNav>div{
+	display: flex;
+	flex-direction:column;
+
+}
+/*三个小nav的点击图*/
+.messageNav .img_{
+	margin:  0 auto;
+	width: 2rem;
+	height:2rem;
+	background:url(../images/message1.gif);
+	background-size:auto 2rem;
+	margin-bottom: .3rem;
+}
+.messageNav .list1 .img_{
+	background-position: -1.73rem;
+}
+.messageNav .list2 .img_{
+	background-position: -7.17rem;
+}
+.messageNav .list3 .img_{
+	background-position: -12.6rem;
+}
+/*下边的两条内容*/
+.messageNav2{
+	padding-top:.4rem;
+	background: white;
+}
+.messageNav2>div{
+	padding:.3rem 0;
+	display: flex;
+	position: relative;
+}
+.messageNav2 .list1 .mian2{
+	padding-bottom:.8rem;
+	flex:1;
+	border-bottom:1px solid #a5a5a5;
+}
+.messageNav2 .img_{
+	width: 2rem;
+	height:2rem;
+	background:url(../images/message2.gif);
+	background-size:3rem auto;
+	margin-left: .3rem;
+	margin-right:.6rem;
+}
+.messageNav2 .list1 .img_{
+	background-position: -.5rem -.6rem;
+}
+.messageNav2 .list2 .img_{
+	background-position: -.5rem -3.7rem;
+}
+.messageNav2 .mian2 p:first-child{
+	font-size: .75rem;
+	font-weight: bold;
+	margin-bottom: .2rem;
+}
+.messageNav2 .mian2 p:nth-child(2){
+	font-size: .6rem;
+	color:#a5a5a5;
+}
+.messageNav2 .mian2 span{
+	font-size: .6rem;
+	color: #a5a5a5;
+	position: absolute;
+	top: .5rem;
+	right: .5rem;
+}
