@@ -1,0 +1,78 @@
+
+body{
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+a{
+	text-decoration: none;
+}
+img{
+	border: none;
+}
+ul,ol,li{
+	list-style: none;
+}
+html{
+	font-size: 20px;
+}
+.speechMain{
+	width: 100%;
+}
+
+/*头部 header*/
+.speechMain header{
+	width: 100%;
+	height:4rem;
+	padding: 1rem 1rem;
+	box-sizing: border-box;
+	background-color: #f8f8f8;
+	position: fixed;
+	left: 0;
+	top: 0;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.speechMain header span{
+	background: url(../images/speechMain_header_left.jpg) no-repeat center;
+	background-size: 1.5rem 1.5rem;
+	width:1.5rem;
+	height: 1.5rem;
+}
+.speechMain header p{
+	display: inline-block;
+	background: url(../images/speechLogo.jpg) no-repeat center;
+	background-size: 100% 100%;
+	width: 4rem;
+	height: 2rem;
+	margin: 0 auto;
+
+}
+.speechMain header i{
+	font-style: normal;
+	background: url(../images/speechMain_header_right.jpg) no-repeat center;
+	background-size: 1.5rem 1.5rem;
+	width:1.5rem;
+	height: 1.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
