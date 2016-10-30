@@ -1,0 +1,17 @@
+footer {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+footer ul {
+    display: flex;
+    height: 100%;
+    justify-content: space-around;
+}
+footer ul li {
+    display: flex;
+    align-items: center;
+}

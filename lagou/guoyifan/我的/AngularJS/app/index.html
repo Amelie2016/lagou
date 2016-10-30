@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <link rel="stylesheet" href="reset.css">
+        <title>首页</title>
+        <script src="libs/angular.js" charset="utf-8"></script>
+        <script src="libs/angular-route.js" charset="utf-8"></script>
+        <script src="libs/angular-css.js" charset="utf-8"></script>
+        <style media="screen">
+            footer {
+                position: fixed;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                height: 50px;
+                background-color: rgba(0, 0, 0, 0.5);
+            }
+            footer ul {
+                display: flex;
+                height: 100%;
+                justify-content: space-around;
+            }
+            footer ul li {
+                display: flex;
+                align-items: center;
+            }
+        </style>
+    </head>
+    <body ng-app="myApp">
+
+        <!-- 带有ng-view指令的标签，内容会被其它的HTML文件所填充 -->
+        <div ng-view></div>
+
+        <!-- 底部的导航 -->
+        <footer>
+            <ul>
+                <li><a href="#/">HOME</a></li>
+                <li><a href="#/mine">MINE</a></li>
+            </ul>
+        </footer>
+
+    </body>
+    <script src="route.js" charset="utf-8"></script>
+    <script src="./home/js/home.js" charset="utf-8"></script>
+    <script src="./mine/js/mine.js" charset="utf-8"></script>
+
+</html>

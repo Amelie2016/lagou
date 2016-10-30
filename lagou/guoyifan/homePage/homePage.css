@@ -1,0 +1,116 @@
+*{
+	padding:0;margin:0;
+}
+html{
+	font-size: 20px;
+}
+/*头部的搜索框*/
+.homePageHeader{
+	padding-right:5%; 
+	padding-top:.85rem;
+	padding-bottom:.2rem;
+	padding-left:5%;
+	height: 2rem;
+	width: 90%;
+	background:rgba(0,196,111,.2);
+	display: flex;
+	justify-content:space-around;
+	align-items:center;
+	position: fixed;
+	z-index: 10;
+}
+.homePageHeader input{
+	outline: 0;
+	margin:0 auto;
+	width: 50%;
+	height: 70%;
+	border: none;
+	border-radius: .7rem;
+	text-align: center;
+	font-size: .65rem;
+	padding: 0 30%;
+}
+.homePageHeader span{
+	position: absolute;
+	top: 46%;
+	left: 25%;
+}
+.homePageHeader span img{
+	width: .8rem;
+}
+/*轮播图部分*/
+.swiper-container{
+	position: absolute;
+	top: -3.05rem;
+	height: 10.5rem;
+}
+.swiper-slide:first-child{
+	background: green;
+}
+.swiper-slide:nth-child(2){
+	background: blue;
+}
+.swiper-slide:last-child{
+	background: orange;
+}
+/*下边的工作职位展示*/
+.homePagePositionShow{
+	overflow: auto;
+	margin-top: -3rem;
+}
+.homePagePositionShow .list{
+	padding:.4rem 0rem 0 .4rem;
+	display: flex;	
+}
+	/*职位展示的左边*/
+.homePagePositionShow .PositionShowLeft{
+	width: 20%;
+	margin-right: .4rem;
+}
+.homePagePositionShow .PositionShow_img{
+	width: 100%;
+}
+	/*职位展示的右边*/
+.homePagePositionShow .PositionShowRight{
+	border-bottom:1px solid #d8d8d8;
+	flex:1;
+	padding-right:.5rem; 
+}
+.PositionShowRight p{
+	position: relative;
+	margin-bottom:.2rem;
+	padding-left:.3rem; 
+}
+.PositionShowRight .list1{
+	font-size: .7rem;
+	font-weight: bold;
+}
+.PositionShowRight .list1 img{
+	width: .9rem;
+	margin-left: .2rem;
+	margin-bottom:-.22rem;
+}
+.PositionShowRight .list1 span{
+	color: #ff7452;
+	font-size: .55rem;
+	font-weight: normal;
+	position: absolute;
+	right: 0;
+	font-weight: bold;
+}
+.PositionShowRight .list2{
+	font-size: .6rem;
+}
+.PositionShowRight .list3{
+	font-size: .6rem;
+	color: #d8d8d8;
+}
+.PositionShowRight .list3 span{
+	position: absolute;
+	right: 0;
+}
+.PositionShowRight .list4{
+	font-size: .6rem;
+	color: #d8d8d8;
+	padding-bottom:.4rem; 
+}

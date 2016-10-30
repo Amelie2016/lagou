@@ -1,14 +1,22 @@
-require({
+require.config({
 	shim : {
-	
+	    "angular" : {
+	    	exports : "angular"
+	    },
+	    "angularRoute" : {
+	    	deps: ['angular'],
+	    	exports : "angular-route"
+	    }
 	},
-	baseUrl : "../lib/",
 	paths : {
-		"text" : "require/text",
-		"css": "require/css",
-		"angular" : "/angular/angular.min",
-		"angular_"
+		"text" : "../lib/require/text",
+		"css": "../lib/require/css",
+		"angular" : "../lib/angular/angular.min",
+		"angularRoute" : "../lib/angular/angular-route.min",
+		"app" : "app",
+		"mainRoute" : "mainRoute"
 	}
 })
-require(["main/mainController"],function () {
+require(["mainRoute"],function () {
+    
 })
