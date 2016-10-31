@@ -1,0 +1,870 @@
+{
+    "pageNo": 1,
+    "pageSize": 15,
+    "positionResult": {
+        "totalCount": 2538,
+        "locationInfo": {
+            "city": "北京",
+            "district": "朝阳区",
+            "businessZone": null,
+            "locationCode": null,
+            "queryByGisCode": false
+        },
+        "resultSize": 15,
+        "queryAnalysisInfo": {
+            "positionName": null,
+            "companyName": null,
+            "industryName": null,
+            "usefulCompany": false
+        },
+        "strategyProperty": {
+            "name": "dm-csearch-newSimScorer",
+            "id": 1
+        }
+    },
+    "result": [
+            {
+                "companyId": 22574,
+                "score": 0,
+                "positionId": 2524908,
+                "positionName": "市场经理",
+                "createTime": "2016-10-31 11:44:19",
+                "positionAdvantage": "七险一金,绩效奖金,定期体检,餐补全勤奖",
+                "salary": "10k-18k",
+                "approve": 0,
+                "workYear": "5-10年",
+                "education": "大专",
+                "city": "北京",
+                "companyLogo": "http://www.lgstatic.com/i/image/M00/52/7D/CgqKkVe730GAJB7_AAAQFnW9jE0601.png",
+                "jobNature": "全职",
+                "industryField": "文化娱乐",
+                "companyShortName": "BCIS 乐成国际学校",
+                "financeStage": "上市公司",
+                "companySize": "500-2000人",
+                "companyLabelList": [
+                    "绩效奖金",
+                    "五险一金",
+                    "节日礼物",
+                    "定期体检"
+                ],
+                "district": "朝阳区",
+                "companyFullName": "北京爱卡汽车网",
+                "adWord": 0,
+                "formatCreateTime": "11:44发布",
+                "lastLogin": 1477884298000,
+                "publisherId": 1470421,
+                "explain": "岗位职责：
+
+                            1、根据公司市场策略、产品市场需求，制定总体推广方案及执行 
+                            2、主导完成相关产品的推广、品牌宣传与媒体资源整合
+                            3、协助区域城市进行市场推广
+                            4、跟踪市场推广效果，收集相关活动数据指标及反馈，并进行相关数据分析、整理，撰写活动执行总结 
+                            5、负责及时准确地研究、监控、分析竞争对手动态，关注产品的趋势，并提出相应的对策 
+                            6、维护开拓媒体、合作伙伴之间合作
+
+                            岗位要求：
+
+                            1、大学专科及以上学历，市场营销等相关专业，5年以上工作经验，有汽车行业经验者优先 
+                            2、有丰富的营销活动策划工作经验，有全国各地渠道商落地推广经验*** 
+                            3、沟通能力优秀，能有效组织协调团队完成市场推广任务
+                            4、熟练使用办公软件",
+                "plus": null,
+                "pcShow": 0,
+                "appShow": 0,
+                "deliver": 0,
+                "gradeDescription": null,
+                "promotionScoreExplain": null,
+                "firstType": null,
+                "secondType": null,
+                "positionLables": null,
+                "businessZones": null,
+                "imState": "disabled"
+            },
+            {
+                "companyId": 140361,
+                "score": 0,
+                "positionId": 2524903,
+                "positionName": "Android工程师",
+                "createTime": "2016-10-31 11:44:00",
+                "positionAdvantage": "技术大牛,领导nic,发展好",
+                "salary": "10k-20k",
+                "approve": 1,
+                "workYear": "3-5年",
+                "education": "本科",
+                "city": "北京",
+                "companyLogo": "http://www.lgstatic.com/i/image/M00/4E/3C/Cgp3O1eqjouAVH77AAAdzOqlm2k518.jpg",
+                "jobNature": "全职",
+                "industryField": "移动互联网,文化娱乐",
+                "companyShortName": "磨铁数盟",
+                "financeStage": "成长型(不需要融资)",
+                "companySize": "50-150人",
+                "companyLabelList": [
+                    "交通补助",
+                    "通讯津贴",
+                    "午餐补助",
+                    "带薪年假"
+                ],
+                "district": "朝阳区",
+                "companyFullName": "北京磨铁数盟信息技术有限公司",
+                "adWord": 0,
+                "formatCreateTime": "11:44发布",
+                "lastLogin": 1477883839000,
+                "publisherId": 5723425,
+                "explain": "工作职责
+
+                            1. 负责工程中主要功能的代码实现；
+                            2. 协助工程管理人保证项目的质量；
+                            3. 参与软件工程系统的设计、开发、测试；
+                            4. 根据项目具体要求，承担开发任务，按计划完成任务目标；
+                            5. 配合产品部人员完成软件系统及模块的需求调研与需求分析。
+
+                            任职资格
+
+                            1. 3年以上开发经验，有ePub开发经验优先考虑；
+                            2. 精通安卓应用开发，熟悉常用开源库，精通Java编程语言，熟悉Native编程，有良好的编程习惯；
+                            3. 精通UI界面开发，熟悉MVC，MVVM等设计，有组件化思维；
+                            4. 熟练掌握VM/Runtime原理，并能够利用原理提出对应用层的优化方案，对底层棘手问题，能够迅速有效的排查；
+                            5. 有性能和稳定性优化经验，熟悉常见的性能稳性定策略，对用户体验有极致追求，有良好的自测习惯； 
+                            6. 有多线程、网络、反编译、安全等编程经验，熟练TCP/HTTP/SPDY/DNS/CDN等网络知识，了解网络优化策略和安全防范机制；
+                            7. 善于总结，有自己的技术理念，乐于分享，有较高的钻究学习热情，能主动建立自己的技术影响力； 
+                            8. 具备良好的团队合作能力。
+                            ",
+                "plus": null,
+                "pcShow": 0,
+                "appShow": 0,
+                "deliver": 0,
+                "gradeDescription": null,
+                "promotionScoreExplain": null,
+                "firstType": null,
+                "secondType": null,
+                "positionLables": null,
+                "businessZones": [
+                    "安贞",
+                    "安华",
+                    "安定门"
+                ],
+                "imState": "today"
+            },
+            {
+                "companyId": 546,
+                "score": 0,
+                "positionId": 989690,
+                "positionName": "渠道销售经理",
+                "createTime": "2016-10-31 11:40:10",
+                "positionAdvantage": "年底双薪，发展潜力大",
+                "salary": "5k-8k",
+                "approve": 1,
+                "workYear": "1-3年",
+                "education": "本科",
+                "city": "北京",
+                "companyLogo": "image1/M00/00/03/Cgo8PFTUV_uAcfZsAAAxyPH5hXQ445.jpg",
+                "jobNature": "全职",
+                "industryField": "移动互联网,文化娱乐",
+                "companyShortName": "V电影",
+                "financeStage": "成熟型(C轮)",
+                "companySize": "150-500人",
+                "companyLabelList": [
+                    "专项奖金",
+                    "节日礼物",
+                    "岗位晋升",
+                    "领导好"
+                ],
+                "district": "朝阳区",
+                "companyFullName": "北京新片场传媒股份有限公司",
+                "adWord": 0,
+                "formatCreateTime": "11:40发布",
+                "lastLogin": 1477885151000,
+                "publisherId": 7123,
+                "explain": "
+                        职责描述：
+                        1.开拓及维护互动代理和4A代理的视频广告业务；
+                        2.与直客销售人员配合，推动广告主及广告代理公司对视频网站广告的认可。
+
+
+                        职位要求：
+                        1.熟悉互联网公司、互动代理公司、4A代理公司的运作模式；
+                        2.丰富的代理公司人脉；
+                        3.善于与人沟通，服务意识强；
+                        4.有很强的自我学习能力、思考能力；
+                        5.热爱互联网，勇于创新与挑战；
+                        6.极强的团队协作精神，勇于承担业绩压力，快速融入新环境并在高压下工作；
+                        7.有大型互联网公司渠道工作经验或4A工作经验者优先。",
+                "plus": null,
+                "pcShow": 0,
+                "appShow": 0,
+                "deliver": 0,
+                "gradeDescription": null,
+                "promotionScoreExplain": null,
+                "firstType": null,
+                "secondType": null,
+                "positionLables": null,
+                "businessZones": [
+                    "安贞",
+                    "安华",
+                    "马甸"
+                ],
+                "imState": "today"
+            },
+            {
+                "companyId": 25592,
+                "score": 0,
+                "positionId": 2306693,
+                "positionName": "汽车策划经理",
+                "createTime": "2016-10-31 11:39:57",
+                "positionAdvantage": "团队氛围好 盈利状况好 奖金多个月",
+                "salary": "10k-18k",
+                "approve": 1,
+                "workYear": "3-5年",
+                "education": "本科",
+                "city": "北京",
+                "companyLogo": "image1/M00/00/35/Cgo8PFTUXJeAJhm5AAAyDX2QCwc674.jpg",
+                "jobNature": "全职",
+                "industryField": "文化娱乐",
+                "companyShortName": "新浪网",
+                "financeStage": "上市公司",
+                "companySize": "2000人以上",
+                "companyLabelList": [
+                    "免费班车",
+                    "岗位晋升",
+                    "五险一金",
+                    "定期体检"
+                ],
+                "district": "朝阳区",
+                "companyFullName": "新浪网技术（中国）有限公司",
+                "adWord": 0,
+                "formatCreateTime": "11:39发布",
+                "lastLogin": 1477885047000,
+                "publisherId": 2834318,
+                "explain": 
+                "工作职责:
+                1. 负责重点汽车客户的提案策划：包括沟通、了解、挖掘客户需求；整合定制销售产品提案；提案反馈跟踪；
+                2、基于华北汽车销售团队需求的营销方案工作
+                3.基于汽车/微博的营销方案工作
+                4. 搜集与定期整理频道数据：了解频道相关数据，建立数据支持系统并保持更新；
+                5. 完成对本地区销售人员及渠道人员的日常业务培训工作；
+                6. 定期完成对竞争对手的跟踪监测与分析，与内部分享并提出建设性改进意见。
+
+                任职要求
+
+                1. 熟悉广告公司业务流程，有较强的整合营销策划能力及较强的提案能力。善于思考，思路敏捷、性格活泼，善于沟通和交流；
+                2. 本科以上学历，具3年以上策划经历，熟悉互联网或汽车行业及广告市场，熟悉消费者研究及品牌推广策略；
+                3. 具备丰富的策划及创新能力、项目执行能力。良好的英语沟通能力，极强的团队合作精神，具较强的观察力及应变能力，较强的组织协调能力；
+                4. 具有高度的工作热情和责任感，自我能动性，拥有一个正确的积极的工作态度；熟练使用POWERPOINT等OFFICE工具；有具体策划执行项目的案例；
+                5. 具互联网或4A广告公司从业背景；",
+                "plus": null,
+                "pcShow": 0,
+                "appShow": 0,
+                "deliver": 0,
+                "gradeDescription": null,
+                "promotionScoreExplain": null,
+                "firstType": null,
+                "secondType": null,
+                "positionLables": null,
+                "businessZones": null,
+                "imState": "disabled"
+            },
+            {
+                "companyId": 114325,
+                "score": 0,
+                "positionId": 2524847,
+                "positionName": "投资总监",
+                "createTime": "2016-10-31 11:39:11",
+                "positionAdvantage": "娱乐资本论与知名投资机构控股的投资机构",
+                "salary": "12k-20k",
+                "approve": 0,
+                "workYear": "1-3年",
+                "education": "本科",
+                "city": "北京",
+                "companyLogo": "http://www.lgstatic.com/i/image/M00/24/F4/CgqKkVcdkG-AMh_QAAF_LGGoOM8595.jpg",
+                "jobNature": "全职",
+                "industryField": "文化娱乐",
+                "companyShortName": "娱乐资本论",
+                "financeStage": "初创型(天使轮)",
+                "companySize": "15-50人",
+                "companyLabelList": null,
+                "district": "朝阳区",
+                "companyFullName": "小娱科技（北京）有限公司",
+                "adWord": 0,
+                "formatCreateTime": "11:39发布",
+                "lastLogin": 1477884516000,
+                "publisherId": 3768108,
+                "explain": null,
+                "plus": null,
+                "pcShow": 0,
+                "appShow": 0,
+                "deliver": 0,
+                "gradeDescription": null,
+                "promotionScoreExplain": null,
+                "firstType": null,
+                "secondType": null,
+                "positionLables": null,
+                "businessZones": [
+                    "建外大街",
+                    "国贸",
+                    "CBD"
+                ],
+                "imState": "today"
+            },
+            {
+                "companyId": 128453,
+                "score": 0,
+                "positionId": 1800640,
+                "positionName": "新媒体编辑",
+                "createTime": "2016-10-31 11:38:10",
+                "positionAdvantage": "五险一金，丰厚待遇，热门行业",
+                "salary": "5k-6k",
+                "approve": 0,
+                "workYear": "1-3年",
+                "education": "本科",
+                "city": "北京",
+                "companyLogo": "http://www.lgstatic.com/i/image/M00/29/37/Cgp3O1cu2B-ARjh1AABpkOfQ3e8568.jpg",
+                "jobNature": "全职",
+                "industryField": "文化娱乐",
+                "companyShortName": "VRIEE",
+                "financeStage": "初创型(未融资)",
+                "companySize": "15-50人",
+                "companyLabelList": [
+                    "年终分红",
+                    "美女多",
+                    "领导好",
+                    "扁平管理"
+                ],
+                "district": "朝阳区",
+                "companyFullName": "北京立云青月文化有限公司",
+                "adWord": 0,
+                "formatCreateTime": "11:38发布",
+                "lastLogin": 1477885052000,
+                "publisherId": 5004701,
+                "explain": "
+                            岗位职责：
+                            
+                            1、 负责编辑撰写自媒体稿件、媒体通稿等稿件
+                            2、 负责自媒体平台日常运营、维护
+                            3、 完成上级交予的其他任务
+
+                            任职要求：
+
+                            1、 本科以上学历，新闻、传播专业优先，有新媒体运营经验者优先；
+                            2、 优秀的写作能力，能够使用多种语言风格；
+                            3、 对时事热点敏感，善于利用热点进行传播；
+                            4、 熟练使用办公类软件，具备简单图片处理能力者优先；
+                            5、 抗压能力强，能适应高强度工作节奏。",
+                "plus": null,
+                "pcShow": 0,
+                "appShow": 0,
+                "deliver": 0,
+                "gradeDescription": null,
+                "promotionScoreExplain": null,
+                "firstType": null,
+                "secondType": null,
+                "positionLables": null,
+                "businessZones": [
+                    "望京",
+                    "大山子",
+                    "酒仙桥"
+                ],
+                "imState": "disabled"
+            },
+            {
+                "companyId": 66541,
+                "score": 0,
+                "positionId": 2524770,
+                "positionName": "主编",
+                "createTime": "2016-10-31 11:31:16",
+                "positionAdvantage": "丰厚期权 带薪年假 年度旅游 工作餐",
+                "salary": "20k-40k",
+                "approve": 1,
+                "workYear": "5-10年",
+                "education": "本科",
+                "city": "北京",
+                "companyLogo": "http://www.lgstatic.com/i/image/M00/5B/D2/CgqKkVfiNvCAELnzAAChWKoWQ9w506.png",
+                "jobNature": "全职",
+                "industryField": "O2O,文化娱乐",
+                "companyShortName": "云莱坞",
+                "financeStage": "成长型(A轮)",
+                "companySize": "50-150人",
+                "companyLabelList": [
+                    "股票期权",
+                    "带薪年假",
+                    "岗位晋升",
+                    "年度旅游"
+                ],
+                "district": "朝阳区",
+                "companyFullName": "北京云莱坞文化传媒有限公司",
+                "adWord": 0,
+                "formatCreateTime": "11:31发布",
+                "lastLogin": 1477883984000,
+                "publisherId": 1635889,
+                "explain": "
+                            岗位职责：
+
+                            1、内容的统筹、运营，包括但不限于IP推荐、专题策划、榜单运营、展会报道等;
+                            2、负责公司所属自媒体微博、微信公众号、产品文案等的整体定位、栏目架构及编辑方针；
+                            3、制定自媒体平台的运营目标及内容方向，把控选题策划、编辑与审核等全部流程；
+                            4、指导编辑开展相关工作，收集及编撰优质的内容，提升自媒体平台的用户数及访问率；
+                            5、负责自媒体平台的运营、合作、推广、事件、营销等活动的策划、组织与实施；
+
+                            任职要求：
+
+                            以下三类优先考虑：
+                            1、有优秀的泛娱乐自媒体平台内容负责人或主编经验；
+                            2、有影视类咨询机构或评价机构（如：艺恩）内容负责人经验；
+                            3、有知乎、时光网、猫眼电影或者腾讯、新浪、搜狐等综合门户的电影频道内容负责人经验；",
+                "plus": null,
+                "pcShow": 0,
+                "appShow": 0,
+                "deliver": 0,
+                "gradeDescription": null,
+                "promotionScoreExplain": null,
+                "firstType": null,
+                "secondType": null,
+                "positionLables": null,
+                "businessZones": [
+                    "南磨房",
+                    "百子湾"
+                ],
+                "imState": "threeDays"
+            },
+            {
+                "companyId": 55807,
+                "score": 0,
+                "positionId": 2524692,
+                "positionName": "销售顾问",
+                "createTime": "2016-10-31 11:25:19",
+                "positionAdvantage": "优秀资源创作高提成",
+                "salary": "5k-8k",
+                "approve": 1,
+                "workYear": "1-3年",
+                "education": "不限",
+                "city": "北京",
+                "companyLogo": "image1/M00/0F/B4/CgYXBlT9cRSAD0d-AAB2DXv3M9I829.jpg",
+                "jobNature": "全职",
+                "industryField": "文化娱乐",
+                "companyShortName": "有沐音乐",
+                "financeStage": "初创型(未融资)",
+                "companySize": "少于15人",
+                "companyLabelList": [
+                    "帅哥多",
+                    "美女多"
+                ],
+                "district": "朝阳区",
+                "companyFullName": "北京有沐行乐文化有限公司",
+                "adWord": 0,
+                "formatCreateTime": "11:25发布",
+                "lastLogin": 1477883826000,
+                "publisherId": 3769282,
+                "explain": "职位描述
+
+                            电视剧音乐制作业务拓展，挖掘电视剧、网剧剧组资源，
+                            了解剧组音乐制作方面需求，充分展示团队成熟音乐制作实力，
+                            销售业务、签单，提高公司此业务领域的成交量。
+                            如果你是
+                            亲和健谈，真诚直爽，了解影视制作和音乐制作，
+                            拥有一定影视圈工作经验，速来~
+                            我们为你提供，
+                            充分的可展示案例以及物料，
+                            宣传组协力支持，匹配一定冷启动客户资源。
+                            高提成，等你～",
+                "plus": null,
+                "pcShow": 0,
+                "appShow": 0,
+                "deliver": 0,
+                "gradeDescription": null,
+                "promotionScoreExplain": null,
+                "firstType": null,
+                "secondType": null,
+                "positionLables": null,
+                "businessZones": [
+                    "管庄",
+                    "定福庄",
+                    "双桥"
+                ],
+                "imState": "threeDays"
+            },
+            {
+                "companyId": 96380,
+                "score": 0,
+                "positionId": 2524646,
+                "positionName": "Java",
+                "createTime": "2016-10-31 11:19:33",
+                "positionAdvantage": "社保住房公积金福利健全 提供午餐 带薪年假",
+                "salary": "10k-15k",
+                "approve": 1,
+                "workYear": "不限",
+                "education": "大专",
+                "city": "北京",
+                "companyLogo": "image2/M00/06/83/CgpzWlX6VLeAStnlAAAQFRPSlj4888.png?cc=0.4398916738573462",
+                "jobNature": "全职",
+                "industryField": "文化娱乐,其他",
+                "companyShortName": "国龙文产投资集团",
+                "financeStage": "初创型(未融资)",
+                "companySize": "150-500人",
+                "companyLabelList": [
+                    "年底双薪",
+                    "股票期权",
+                    "专项奖金",
+                    "带薪年假"
+                ],
+                "district": "朝阳区",
+                "companyFullName": "国龙投资（北京）有限公司",
+                "adWord": 0,
+                "formatCreateTime": "11:19发布",
+                "lastLogin": 1477883810000,
+                "publisherId": 3730011,
+                "explain": "
+                            岗位职责：
+
+                            1、负责App产品后台的不断改进和开发；
+                            2、产品需求分析，技术方案设计，完成开发任务；
+                            3、负责系统性能改善及数据库性能优化；
+                            4、负责与后台开发相关的项目管理工作；
+                            5、负责运营支撑相关技术工作及部分运维工作。",
+                "plus": null,
+                "pcShow": 0,
+                "appShow": 0,
+                "deliver": 0,
+                "gradeDescription": null,
+                "promotionScoreExplain": null,
+                "firstType": null,
+                "secondType": null,
+                "positionLables": null,
+                "businessZones": [
+                    "十里堡",
+                    "八里庄",
+                    "石佛营"
+                ],
+                "imState": "disabled"
+            },
+            {
+                "companyId": 148489,
+                "score": 0,
+                "positionId": 2370408,
+                "positionName": "网页设计师",
+                "createTime": "2016-10-31 11:19:01",
+                "positionAdvantage": "绩效奖金、带薪年假、餐饮补贴、员工旅游",
+                "salary": "4k-8k",
+                "approve": 0,
+                "workYear": "不限",
+                "education": "大专",
+                "city": "北京",
+                "companyLogo": "http://www.lgstatic.com/i/image/M00/5A/13/CgqKkVfc7f6AVjUkAAANzZXtM-k078.jpg",
+                "jobNature": "全职",
+                "industryField": "移动互联网,文化娱乐",
+                "companyShortName": "逸云时尚传媒",
+                "financeStage": "初创型(未融资)",
+                "companySize": "15-50人",
+                "companyLabelList": null,
+                "district": "朝阳区",
+                "companyFullName": "北京逸云时尚传媒科技有限公司",
+                "adWord": 0,
+                "formatCreateTime": "11:19发布",
+                "lastLogin": 1477884706000,
+                "publisherId": 6123025,
+                "explain": "
+                            岗位职责： 
+                            1. 负责公司产品（网页、移动端）整体视觉风格和UI、UE设计 
+                            2. 负责为日常运营活动及功能维护提供平面设计支持 
+                            3. 负责为公司产品新产品与新功能提供创意及设计方案 
+                            4. 从全局角度把握界面时尚美观度、色彩风格、图标、插图、产品品牌形象 
+                            5. 设定网站、移动端界面的整体视觉风格和VI设计，参与设计体验、流程的制定和规范 
+                            6. 负责公司整体形象视觉设计 ",
+                "plus": null,
+                "pcShow": 0,
+                "appShow": 0,
+                "deliver": 0,
+                "gradeDescription": null,
+                "promotionScoreExplain": null,
+                "firstType": null,
+                "secondType": null,
+                "positionLables": null,
+                "businessZones": [
+                    "常营"
+                ],
+                "imState": "today"
+            },
+            {
+                "companyId": 35618,
+                "score": 0,
+                "positionId": 2524576,
+                "positionName": "图片编辑",
+                "createTime": "2016-10-31 11:10:14",
+                "positionAdvantage": "薪资无上限,发展无上限,空间无上限,福利无上限",
+                "salary": "4k-8k",
+                "approve": 1,
+                "workYear": "不限",
+                "education": "大专",
+                "city": "北京",
+                "companyLogo": "image1/M00/00/54/Cgo8PFTUXR2AUZ6iAABkdfkPB2I178.jpg",
+                "jobNature": "全职",
+                "industryField": "移动互联网,文化娱乐",
+                "companyShortName": "艺典中国",
+                "financeStage": "成长型(A轮)",
+                "companySize": "50-150人",
+                "companyLabelList": null,
+                "district": "朝阳区",
+                "companyFullName": "艺鉴典藏（北京）网络科技有限公司",
+                "adWord": 0,
+                "formatCreateTime": "11:10发布",
+                "lastLogin": 1477882065000,
+                "publisherId": 6247626,
+                "explain": "岗位职责：
+
+                            1.核查照片是否符合公司要求，如照片的清晰度，美观性等
+                            2.根据公司需要修改图片以及图片的上传  
+                            3.上传图片到公司的网站
+                            4.负责公司文案表格类的工作
+
+                            任职资格：
+
+                            1、专科以上学历，有一定图编工作经验优先考虑 。
+                            2、计算机操作熟练，office办公软件使用熟练，有一定的网络知识基础，熟练使用Photoshop等制图工具者优先考虑。
+                            3、性格要求沉稳、隐忍，善于倾听，有同理心，乐观、积极。普通话标准、流利，反应灵敏。
+                            4、热爱工作，敬业、勤恳，乐于思考，具有自我发展的主观愿望和自我学习能力。可适当加班者优先",
+                "plus": null,
+                "pcShow": 0,
+                "appShow": 0,
+                "deliver": 0,
+                "gradeDescription": null,
+                "promotionScoreExplain": null,
+                "firstType": null,
+                "secondType": null,
+                "positionLables": null,
+                "businessZones": [
+                    "大山子",
+                    "酒仙桥"
+                ],
+                "imState": "today"
+            },
+            {
+                "companyId": 52719,
+                "score": 0,
+                "positionId": 2394446,
+                "positionName": "dota2内容编辑实习生",
+                "createTime": "2016-10-31 11:09:56",
+                "positionAdvantage": "工作餐,水果零食,弹性工作制",
+                "salary": "1k-2k",
+                "approve": 1,
+                "workYear": "不限",
+                "education": "本科",
+                "city": "北京",
+                "companyLogo": "http://www.lgstatic.com/i/image/M00/29/2C/Cgp3O1cupcyANaj4AAFVcnIIq3c157.png",
+                "jobNature": "实习",
+                "industryField": "移动互联网,文化娱乐",
+                "companyShortName": "玩加赛事",
+                "financeStage": "成长型(A轮)",
+                "companySize": "15-50人",
+                "companyLabelList": [
+                    "技能培训",
+                    "专项奖金",
+                    "股票期权",
+                    "带薪年假"
+                ],
+                "district": "朝阳区",
+                "companyFullName": "北京玩在一起科技有限公司",
+                "adWord": 0,
+                "formatCreateTime": "11:09发布",
+                "lastLogin": 1477882801000,
+                "publisherId": 5624357,
+                "explain": "岗位职责:
+
+                        　　负责网站及APP的DOTA频道内容编辑、赛事报道及信息的及时推送；
+
+                            职位要求：
+
+                        　  1、 具有一定的写作能力，有过相关经验者优先；
+                            2、 热爱电竞赛事，篮球、足球等体育赛事爱好者优先；
+                        　  3、 新闻传媒、中文相关专业优先；
+                            4、加分项：熟练掌握英语或者韩语",
+                "plus": null,
+                "pcShow": 0,
+                "appShow": 0,
+                "deliver": 0,
+                "gradeDescription": null,
+                "promotionScoreExplain": null,
+                "firstType": null,
+                "secondType": null,
+                "positionLables": null,
+                "businessZones": [
+                    "立水桥",
+                    "北苑"
+                ],
+                "imState": "today"
+            },
+            {
+                "companyId": 34745,
+                "score": 0,
+                "positionId": 2143296,
+                "positionName": "算法工程师",
+                "createTime": "2016-10-31 10:58:09",
+                "positionAdvantage": "五险一金交通通讯补贴节日津贴拟上市企业",
+                "salary": "7k-14k",
+                "approve": 0,
+                "workYear": "应届毕业生",
+                "education": "本科",
+                "city": "北京",
+                "companyLogo": "image1/M00/00/52/Cgo8PFTUXRGAVH4_AADawlLn88s666.JPG",
+                "jobNature": "全职",
+                "industryField": "教育,文化娱乐",
+                "companyShortName": "索贝学院",
+                "financeStage": "初创型(未融资)",
+                "companySize": "15-50人",
+                "companyLabelList": [
+                    "年底双薪",
+                    "节日礼物",
+                    "技能培训",
+                    "绩效奖金"
+                ],
+                "district": "朝阳区",
+                "companyFullName": "成都索贝数码科技股份有限公司",
+                "adWord": 0,
+                "formatCreateTime": "10:58发布",
+                "lastLogin": 1477882614000,
+                "publisherId": 1587750,
+                "explain": "岗位职责:
+
+                            1. 负责2D / 3D建模、渲染等图形底层技术的研究与实现；
+                            2. 负责公共图文底层模块的维护与升级；
+                            3. 其他图形图像相关的工作内容；
+
+                            任职能力:
+
+                            1. 熟悉C/C++编程语言；
+                            2. 熟悉Windows编程技术；
+                            3. 数学基础好；
+                            4. 有DirectX或OpenGL编程经验",
+                "plus": null,
+                "pcShow": 0,
+                "appShow": 0,
+                "deliver": 0,
+                "gradeDescription": null,
+                "promotionScoreExplain": null,
+                "firstType": null,
+                "secondType": null,
+                "positionLables": null,
+                "businessZones": [
+                    "燕莎",
+                    "三元桥",
+                    "亮马桥"
+                ],
+                "imState": "disabled"
+            },
+            {
+                "companyId": 13599,
+                "score": 0,
+                "positionId": 2489669,
+                "positionName": "产品售后/支撑/客服",
+                "createTime": "2016-10-31 10:45:51",
+                "positionAdvantage": "七险一金、生日会、年度体检、节日福利",
+                "salary": "3k-5k",
+                "approve": 1,
+                "workYear": "不限",
+                "education": "不限",
+                "city": "北京",
+                "companyLogo": "image1/M00/00/1A/CgYXBlTUWFeACydRAABOeu4nphE819.jpg",
+                "jobNature": "全职",
+                "industryField": "移动互联网,文化娱乐",
+                "companyShortName": "掌视亿通",
+                "financeStage": "成长型(不需要融资)",
+                "companySize": "50-150人",
+                "companyLabelList": [
+                    "节日礼物",
+                    "绩效奖金",
+                    "岗位晋升",
+                    "管理规范"
+                ],
+                "district": "朝阳区",
+                "companyFullName": "天津掌视亿通信息技术有限公司北京分公司",
+                "adWord": 0,
+                "formatCreateTime": "10:45发布",
+                "lastLogin": 1477881944000,
+                "publisherId": 827561,
+                "explain": "职位描述：
+
+                            1.用户资料的日常审核工作
+                            2.解答用户在产品使用上的疑问，并进行正确的操作指导
+                            3.记录用户详细资料及服务过程
+                            4.帮助用户查询相关付费信息或用户账号的找回工作
+                            5.适当与用户进行在线沟通，让用户拥有更好的使用体验，提高用户对产品的兴趣
+                            6.投诉用户的安抚及退费工作
+                            7.及时记录用户对产品的建议及意见，提交给相关部门
+                            8.领导交付的其他工作。
+                            9.有word、excel等办公软件使用经验",
+                "plus": null,
+                "pcShow": 0,
+                "appShow": 0,
+                "deliver": 0,
+                "gradeDescription": null,
+                "promotionScoreExplain": null,
+                "firstType": null,
+                "secondType": null,
+                "positionLables": null,
+                "businessZones": [
+                    "朝阳门",
+                    "朝外",
+                    "工体"
+                ],
+                "imState": "today"
+            },
+            {
+                "companyId": 112696,
+                "score": 0,
+                "positionId": 1510142,
+                "positionName": "客服",
+                "createTime": "2016-10-31 10:40:03",
+                "positionAdvantage": "飞速发展，周末双休，体育文化，共同梦想",
+                "salary": "3k-5k",
+                "approve": 0,
+                "workYear": "不限",
+                "education": "大专",
+                "city": "北京",
+                "companyLogo": "http://www.lgstatic.com/i/image/M00/16/94/CgqKkVbvwq6AdoIrAAAVhTPw51o377.jpg",
+                "jobNature": "全职",
+                "industryField": "移动互联网,文化娱乐",
+                "companyShortName": "微赛",
+                "financeStage": "成长型(A轮)",
+                "companySize": "150-500人",
+                "companyLabelList": [
+                    "带薪年假",
+                    "定期体检",
+                    "免费班车",
+                    "商业保险"
+                ],
+                "district": "朝阳区",
+                "companyFullName": "北京微赛时代体育科技有限公司",
+                "adWord": 0,
+                "formatCreateTime": "10:40发布",
+                "lastLogin": 1477879969000,
+                "publisherId": 3734848,
+                "explain": "工作职责：
+
+                            1、负责在线或主动拨打客户的电话和解答客户的疑问;
+                            2、负责进行指定客户群体回访、信息校对等工作;
+                            3、及时高效地处理订单，并确保信息的准确反馈;
+                            4、及时跟进机会客户，与技术人员配合完成客户订单
+                            5、每月按要求完成KPI
+
+                            任职要求：
+
+                            1、大专以上学历，3年以上工作经验的中专学历亦可；
+                            2、有呼叫中心、酒店、机票相关工作经验者优先，欢迎应届生应聘；
+                            3、普通话标准，语音甜美，具有良好的人际交往能力；
+                            4、性格乐观主动，有良好的服务意识和抗压能力；
+                            5、熟练操作办公软件，中文打字40字/分钟以上",
+                "plus": null,
+                "pcShow": 0,
+                "appShow": 0,
+                "deliver": 0,
+                "gradeDescription": null,
+                "promotionScoreExplain": null,
+                "firstType": null,
+                "secondType": null,
+                "positionLables": null,
+                "businessZones": [
+                    "大望路",
+                    "四惠",
+                    "华贸"
+                ],
+                "imState": "today"
+            }
+            ]
+}

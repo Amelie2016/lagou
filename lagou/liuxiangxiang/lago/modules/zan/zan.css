@@ -61,8 +61,14 @@ html{
 }
 .zan_status{
 	margin: 0 auto;
-	margin-top: 1.65rem;
+	margin-top: 1.5rem;
 	font-size: 0.85rem;
 	color: #999999;
 	text-align: center;
+}
+.jiayou{
+	margin: 0 auto;
+	font-size: 0.85rem;
+	color: #999999;
+	text-align: center;	
 }

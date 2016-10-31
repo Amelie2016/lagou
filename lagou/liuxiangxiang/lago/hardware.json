@@ -1,0 +1,850 @@
+{
+    "pageNo": 1,
+    "pageSize": 15,
+    "positionResult": {
+        "totalCount": 601,
+        "locationInfo": {
+            "businessZone": null,
+            "locationCode": null,
+            "queryByGisCode": false,
+            "city": "北京",
+            "district": "朝阳区"
+        },
+        "resultSize": 15,
+        "queryAnalysisInfo": {
+            "industryName": null,
+            "usefulCompany": false,
+            "positionName": null,
+            "companyName": null
+        },
+        "strategyProperty": {
+            "name": "dm-csearch-newSimScorer",
+            "id": 1
+        }
+        
+    },
+    "result": [
+                {
+                    "positionName": "android系统研发总监",
+                    "companyId": 106841,
+                    "workYear": "5-10年",
+                    "education": "本科",
+                    "jobNature": "全职",
+                    "positionId": 2378074,
+                    "createTime": "2016-10-31 14:22:43",
+                    "city": "北京",
+                    "companyLogo": "http://www.image2/M00/17/53/CgpzWlZKwACAfGQSAABOldtC3HE540.png?cc=0.5225925270933658",
+                    "industryField": "移动互联网,硬件",
+                    "positionAdvantage": "五险一金 节日福利 员工旅游",
+                    "salary": "20k-35k",
+                    "companySize": "150-500人",
+                    "approve": 0,
+                    "financeStage": "上市公司",
+                    "companyLabelList": [
+                        "节日礼物",
+                        "带薪年假",
+                        "绩效奖金",
+                        "扁平管理"
+                    ],
+                    "district": "朝阳区",
+                    "companyShortName": "通远科技",
+                    "score": 0,
+                    "formatCreateTime": "14:22发布",
+                    "companyFullName": "北京通远科技有限公司",
+                    "adWord": 0,
+                    "businessZones": [
+                        "酒仙桥",
+                        "大山子",
+                        "将台路"
+                    ],
+                    "imState": "today",
+                    "lastLogin": 1477894959000,
+                    "publisherId": 5181028,
+                    "explain": "岗位职责：
+
+                                负责技术架构设计、重构、优化，根据业务规划及技术规划制定智能化平台架构方案；
+                                负责Android平台系统软件，提出软件架构整体设计方案; 负责核心功能的架构与代码模板；
+                                负责驱动软件设计, JNI, framework层软件设计; 
+                                负责操作系统的优化, 负责系统软件架构、核心模块和算法的设计与优化;   
+                                持续改进团队技术规范、开发流程规范；持续提升团队技术实力、开发效率；主导技术难题攻关
+                                协助智能硬件平台方案选型; 负责进行技术评估，制定技术方案；
+                                负责各种前沿开源技术的研究、选型，并对开发过程中的技术文档进行审核",
+                    "plus": null,
+                    "pcShow": 0,
+                    "appShow": 0,
+                    "deliver": 0,
+                    "gradeDescription": null,
+                    "promotionScoreExplain": null,
+                    "firstType": null,
+                    "secondType": null,
+                    "positionLables": null
+                },
+                {
+                    "positionName": "会计",
+                    "companyId": 127138,
+                    "workYear": "3-5年",
+                    "education": "本科",
+                    "jobNature": "全职",
+                    "positionId": 2184069,
+                    "createTime": "2016-10-31 13:23:20",
+                    "city": "北京",
+                    "companyLogo": "i/http://www.image/M00/40/48/CgqKkVd6NXSAJWoeAAAKUt_v1lc338.jpg",
+                    "industryField": "硬件,其他",
+                    "positionAdvantage": "五险一金 福利完善 气氛融洽",
+                    "salary": "6k-8k",
+                    "companySize": "少于15人",
+                    "approve": 0,
+                    "financeStage": "初创型(不需要融资)",
+                    "companyLabelList": [
+                        "绩效奖金",
+                        "五险一金",
+                        "领导好",
+                        "扁平管理"
+                    ],
+                    "district": "朝阳区",
+                    "companyShortName": "水星动力",
+                    "score": 0,
+                    "formatCreateTime": "13:23发布",
+                    "companyFullName": "水星动力（北京）科技有限公司",
+                    "adWord": 0,
+                    "businessZones": [
+                        "望京",
+                        "大山子",
+                        "花家地"
+                    ],
+                    "imState": "today",
+                    "lastLogin": 1477891382000,
+                    "publisherId": 4902819,
+                    "explain": "1、独立操作一般纳税人企业会计和进口业务账目，能独立完成整套的财务处理及财务核算；
+                                2、按月/季/年度进行结账、出报表、税务申报及汇算清缴；
+                                3、根据计划，预算指标审核费用单据，并编制成本费用报表；
+                                4、相关财务分析报告；
+                                5、负责公司应收账款的管理及日常的业务处理。
+
+                                任职要求：
+
+                                1、财务管理、会计学相关专业本科以上学历，具备会计任职资格证书；
+                                2、有核算经验、ERP使用经验者优先考虑；
+                                3、熟悉会计报表的处理，会计法规和税法，熟练使用财务软件。
+                                4、具备全面掌握企业预算、核算、税务、风控及编制合并报表的能力；",
+                    "plus": null,
+                    "pcShow": 0,
+                    "appShow": 0,
+                    "deliver": 0,
+                    "gradeDescription": null,
+                    "promotionScoreExplain": null,
+                    "firstType": null,
+                    "secondType": null,
+                    "positionLables": null
+                },
+                {
+                    "positionName": "供应链管理",
+                    "companyId": 113761,
+                    "workYear": "3-5年",
+                    "education": "本科",
+                    "jobNature": "全职",
+                    "positionId": 2496980,
+                    "createTime": "2016-10-31 12:49:03",
+                    "city": "北京",
+                    "companyLogo": "i/http://www.image/M00/0C/DC/Cgp3O1bX-1eARbbSAAAcK_fY2g4466.png",
+                    "industryField": "硬件,移动互联网",
+                    "positionAdvantage": "诚聘,14薪",
+                    "salary": "15k-25k",
+                    "companySize": "15-50人",
+                    "approve": 0,
+                    "financeStage": "初创型(不需要融资)",
+                    "companyLabelList": null,
+                    "district": "朝阳区",
+                    "companyShortName": "企鹅创新",
+                    "score": 0,
+                    "formatCreateTime": "12:49发布",
+                    "companyFullName": "企鹅创新（北京）科技有限公司",
+                    "adWord": 0,
+                    "businessZones": [
+                        "望京",
+                        "大山子",
+                        "花家地"
+                    ],
+                    "imState": "disabled",
+                    "lastLogin": 1477889260000,
+                    "publisherId": 3725427,
+                    "explain": null,
+                    "plus": null,
+                    "pcShow": 0,
+                    "appShow": 0,
+                    "deliver": 0,
+                    "gradeDescription": null,
+                    "promotionScoreExplain": null,
+                    "firstType": null,
+                    "secondType": null,
+                    "positionLables": null
+                },
+                {
+                    "positionName": "web前端",
+                    "companyId": 30763,
+                    "workYear": "1-3年",
+                    "education": "本科",
+                    "jobNature": "全职",
+                    "positionId": 1715080,
+                    "createTime": "2016-10-31 11:44:05",
+                    "city": "北京",
+                    "companyLogo": "i/http://www.image/M00/20/F7/CgqKkVcPYYeAQFbPAAAlbMMh_dI847.jpg",
+                    "industryField": "硬件",
+                    "positionAdvantage": "高额薪资+股份期权+能力提升+舒适氛围",
+                    "salary": "15k-20k",
+                    "companySize": "50-150人",
+                    "approve": 0,
+                    "financeStage": "成长型(A轮)",
+                    "companyLabelList": [
+                        "扁平管理",
+                        "美女多",
+                        "帅哥多",
+                        "弹性工作"
+                    ],
+                    "district": "朝阳区",
+                    "companyShortName": "EmergeLabs",
+                    "score": 0,
+                    "formatCreateTime": "11:44发布",
+                    "companyFullName": "北京那个网络科技有限公司",
+                    "adWord": 0,
+                    "businessZones": [
+                        "酒仙桥",
+                        "将台路",
+                        "大山子",
+                        "大山子",
+                        "酒仙桥",
+                        "望京"
+                    ],
+                    "imState": "today",
+                    "lastLogin": 1477885427000,
+                    "publisherId": 917952,
+                    "explain": "岗位职责：
+
+                                利用HTML5相关技术开发移动平台的web前端页面。 
+                                熟悉WebGL技术，熟练掌握CSS,JavaScript。
+                                基于HTML5编写可复用的用户界面组件。 
+                                持续的优化前端体验和页面响应速度，并保证兼容性和执行效率。 
+                                配合后台工程师一起研讨技术实现方案，进行应用及系统整合",
+                    "plus": null,
+                    "pcShow": 0,
+                    "appShow": 0,
+                    "deliver": 0,
+                    "gradeDescription": null,
+                    "promotionScoreExplain": null,
+                    "firstType": null,
+                    "secondType": null,
+                    "positionLables": null
+                },
+                {
+                    "positionName": "Node.js后台开发工程师",
+                    "companyId": 37525,
+                    "workYear": "1-3年",
+                    "education": "本科",
+                    "jobNature": "全职",
+                    "positionId": 2524281,
+                    "createTime": "2016-10-31 10:36:38",
+                    "city": "北京",
+                    "companyLogo": "i/http://www.image/M00/22/24/CgqKkVcUXC-AEANtAAB-8AqEWEI754.png",
+                    "industryField": "移动互联网,硬件",
+                    "positionAdvantage": "创业环境,团队氛围好,成长空间大",
+                    "salary": "10k-15k",
+                    "companySize": "15-50人",
+                    "approve": 1,
+                    "financeStage": "初创型(天使轮)",
+                    "companyLabelList": [
+                        "股票期权",
+                        "弹性工作",
+                        "节日礼物",
+                        "领导好"
+                    ],
+                    "district": "朝阳区",
+                    "companyShortName": "Oracleen",
+                    "score": 0,
+                    "formatCreateTime": "10:36发布",
+                    "companyFullName": "爱芽（北京）科技有限公司",
+                    "adWord": 0,
+                    "businessZones": [
+                        "酒仙桥",
+                        "将台路",
+                        "大山子"
+                    ],
+                    "imState": "today",
+                    "lastLogin": 1477894515000,
+                    "publisherId": 1755467,
+                    "explain": "我们希望你有这样的能力：
+                                熟练使用 Node.js/JavaScript/CoffeeScript，对常用框架和 Node.js 的 events/stream/net等内部模块有实战经验；
+                                能独立完成新功能模块的接口设计和开发工作；
+                                熟悉一门Mongodb, NoSQL ,MySQL数据库的语法及性能调优；
+                                熟练运用 Shell 命令和工具，能单独编写 Shell 脚本，有工具意识。
+                                你将面对这些任务和挑战：
+                                深入了解用户侧需求，场景，及业务；
+                                为Oracleen移动端开发高效，可扩展，封装性好的接口；
+                                参与技术架构，底层服务开发；",
+                    "plus": null,
+                    "pcShow": 0,
+                    "appShow": 0,
+                    "deliver": 0,
+                    "gradeDescription": null,
+                    "promotionScoreExplain": null,
+                    "firstType": null,
+                    "secondType": null,
+                    "positionLables": null
+                },
+                {
+                    "positionName": "助理",
+                    "companyId": 95283,
+                    "workYear": "不限",
+                    "education": "本科",
+                    "jobNature": "实习",
+                    "positionId": 2524214,
+                    "createTime": "2016-10-31 10:28:56",
+                    "city": "北京",
+                    "companyLogo": "http://www.image2/M00/04/BA/CgpzWlXywLKAECqoAAAffDSVPQU331.jpg",
+                    "industryField": "医疗健康,硬件",
+                    "positionAdvantage": "免费零食 公司食堂 免费体检",
+                    "salary": "2k-3k",
+                    "companySize": "2000人以上",
+                    "approve": 0,
+                    "financeStage": "上市公司",
+                    "companyLabelList": [
+                        "带薪年假",
+                        "绩效奖金",
+                        "年度旅游",
+                        "美女多"
+                    ],
+                    "district": "朝阳区",
+                    "companyShortName": "全球领先的技术企业",
+                    "score": 0,
+                    "formatCreateTime": "10:28发布",
+                    "companyFullName": "西门子（中国）有限公司",
+                    "adWord": 0,
+                    "businessZones": [
+                        "望京",
+                        "花家地",
+                        "来广营"
+                    ],
+                    "imState": "disabled",
+                    "lastLogin": 1477880647000,
+                    "publisherId": 6385054,
+                    "explain": "职责：
+                                1、协助部门完成合同及票据的整理、分类、传送和邮寄；
+                                2、协助部门完成其他日常事务性工作；
+                                3、标书等文件的编辑整理；
+                                4、其他商务相关事务支持",
+                    "plus": null,
+                    "pcShow": 0,
+                    "appShow": 0,
+                    "deliver": 0,
+                    "gradeDescription": null,
+                    "promotionScoreExplain": null,
+                    "firstType": null,
+                    "secondType": null,
+                    "positionLables": null
+                },
+                {
+                    "positionName": "运营总监",
+                    "companyId": 7094,
+                    "workYear": "不限",
+                    "education": "不限",
+                    "jobNature": "全职",
+                    "positionId": 2514470,
+                    "createTime": "2016-10-31 10:20:44",
+                    "city": "北京",
+                    "companyLogo": "http://www.image2/M00/0C/12/CgpzWlYbUF2AJNZ-AAA6MysX1Hw450.png",
+                    "industryField": "硬件,教育",
+                    "positionAdvantage": "弹性工作制、五险一金、包吃、发展前景好",
+                    "salary": "25k-30k",
+                    "companySize": "150-500人",
+                    "approve": 1,
+                    "financeStage": "成长型(B轮)",
+                    "companyLabelList": [
+                        "优秀团队",
+                        "篮球羽毛球队",
+                        "13薪",
+                        "各种爬梯"
+                    ],
+                    "district": "朝阳区",
+                    "companyShortName": "The ONE",
+                    "score": 0,
+                    "formatCreateTime": "10:20发布",
+                    "companyFullName": "小叶子（北京）科技有限公司",
+                    "adWord": 0,
+                    "businessZones": [
+                        "望京",
+                        "大山子",
+                        "花家地"
+                    ],
+                    "imState": "today",
+                    "lastLogin": 1477894509000,
+                    "publisherId": 79034,
+                    "explain": "岗位职责：    
+
+                                1.全面负责音乐教育业务项目的全国数千家机构的运营工作，确保运营目标的达成，机构的健康可持续运营；
+                                2.根据产品特性与业务发展，提供全国运营的战略布局、营销策略、运营体系；
+                                3.对全国各区域开展运营培训与督导、营运支持；
+                                4.建设和发展全国运营团队，制定运营团队预算和考核指标，完善运营人才培养计划。
+
+                                任职要求:
+                                1.5年以上知名连锁教育培训或酒店的行业运营经验，有加盟或中心校区的运营经验者优先；
+                                2.丰富的销售管理经验，优秀的运营体系及规范标准化流程的搭建能力；
+                                3.具有创业精神，战略性思维与商业敏感度；
+                                4.积极有高度责任感，良好的人际沟通能力、团队管理能力与执行力",
+                    "plus": null,
+                    "pcShow": 0,
+                    "appShow": 0,
+                    "deliver": 0,
+                    "gradeDescription": null,
+                    "promotionScoreExplain": null,
+                    "firstType": null,
+                    "secondType": null,
+                    "positionLables": null
+                },
+                {
+                    "positionName": "市场策划（家电行业）",
+                    "companyId": 26128,
+                    "workYear": "3-5年",
+                    "education": "大专",
+                    "jobNature": "全职",
+                    "positionId": 1298695,
+                    "createTime": "2016-10-31 09:54:02",
+                    "city": "北京",
+                    "companyLogo": "http://www.image2/M00/07/56/CgqLKVX_X3qARSmMAAAkrbHZFSY156.png",
+                    "industryField": "移动互联网,硬件",
+                    "positionAdvantage": "福利待遇",
+                    "salary": "10k-15k",
+                    "companySize": "50-150人",
+                    "approve": 0,
+                    "financeStage": "上市公司",
+                    "companyLabelList": [
+                        "绩效奖金",
+                        "年底双薪",
+                        "五险一金",
+                        "交通补助"
+                    ],
+                    "district": "朝阳区",
+                    "companyShortName": "中辉乾坤",
+                    "score": 0,
+                    "formatCreateTime": "09:54发布",
+                    "companyFullName": "中辉乾坤（北京）数字电视投资管理有限公司",
+                    "adWord": 0,
+                    "businessZones": [
+                        "双井",
+                        "劲松",
+                        "南磨房"
+                    ],
+                    "imState": "disabled",
+                    "lastLogin": 1477880976000,
+                    "publisherId": 318607,
+                    "explain": "1、负责市场文案、图片、视频、策划等内容的审核、规划及运营工作；
+                                2、负责平台相关专题策划、制作；策划和组织线上、线下活动，提升用户的积极性及粘性；
+                                3、有效利用时效性事件、重大事件，策划具有公司自有个性的运营内容；
+                                4、负责跟踪每周运营指标，分析运营数据，改善运营方案，提升运营效果；
+                                5、结合平台产品优势及自身资源，开发拓展媒体及各行业合作伙伴，提升业务品牌知名度；
+                                6、通过新媒体运营、内容合作、活动合作等整合各种推广渠道，提高用户使用活跃度。
+                                ",
+                    "plus": null,
+                    "pcShow": 0,
+                    "appShow": 0,
+                    "deliver": 0,
+                    "gradeDescription": null,
+                    "promotionScoreExplain": null,
+                    "firstType": null,
+                    "secondType": null,
+                    "positionLables": null
+                },
+                {
+                    "positionName": "急聘 售后技术支持工程师/存储工程师",
+                    "companyId": 108106,
+                    "workYear": "1-3年",
+                    "education": "大专",
+                    "jobNature": "全职",
+                    "positionId": 2320522,
+                    "createTime": "2016-10-31 09:26:48",
+                    "city": "北京",
+                    "companyLogo": "i/http://www.image/M00/00/D1/CgqKkVZWqauARreaAAALFW3Kbqg863.jpg",
+                    "industryField": "硬件,数据服务",
+                    "positionAdvantage": "五险一金带薪年假节日福利通讯补贴",
+                    "salary": "6k-8k",
+                    "companySize": "15-50人",
+                    "approve": 0,
+                    "financeStage": "上市公司",
+                    "companyLabelList": null,
+                    "district": "朝阳区",
+                    "companyShortName": "普安科技",
+                    "score": 0,
+                    "formatCreateTime": "09:26发布",
+                    "companyFullName": "普崴存储信息技术（上海）有限公司北京分公司",
+                    "adWord": 0,
+                    "businessZones": [
+                        "四惠"
+                    ],
+                    "imState": "overSevenDays",
+                    "lastLogin": 1474592194000,
+                    "publisherId": 6045432,
+                    "explain": "岗位职责
+                                1、 完成产品安装、调试、演示；
+                                2、 协助解决用户在产品使用过程中遇到的问题，参与培训用户，提供现场指导等售后技术支持工作；
+                                3、 撰写产品文档及数据分析报告；
+                                4、 根据用户需求、结合产品功能提供合适的解决方法。
+
+                                任职资格
+                                1、 计算机等相关专业，本科以上学历；
+                                2、 至少2年以上工作经验，其中一年以上存储行业相关工作经验；
+                                3、 逻辑分析能力强，条理性强，有一定的讲解能力；
+                                4、 熟悉存储设备相关产品的安装部署，熟练掌握计算机知识和局域网、互联网知识；
+                                5、 善于沟通，表达力强，责任心强，灵活自信,应变能力强；
+                                6、 具备良好的职业道德和职业习惯。",
+                    "plus": null,
+                    "pcShow": 0,
+                    "appShow": 0,
+                    "deliver": 0,
+                    "gradeDescription": null,
+                    "promotionScoreExplain": null,
+                    "firstType": null,
+                    "secondType": null,
+                    "positionLables": null
+                },
+                {
+                    "positionName": "市场总监",
+                    "companyId": 52992,
+                    "workYear": "1-3年",
+                    "education": "大专",
+                    "jobNature": "全职",
+                    "positionId": 2442623,
+                    "createTime": "2016-10-31 08:18:52",
+                    "city": "北京",
+                    "companyLogo": "http://www.image1/M00/0A/51/Cgo8PFTuwqmAVN5qAACB4frCmDA760.jpg",
+                    "industryField": "教育,硬件",
+                    "positionAdvantage": "带薪年假",
+                    "salary": "6k-12k",
+                    "companySize": "50-150人",
+                    "approve": 0,
+                    "financeStage": "初创型(未融资)",
+                    "companyLabelList": [
+                        "技能培训",
+                        "年底双薪",
+                        "节日礼物",
+                        "绩效奖金"
+                    ],
+                    "district": "朝阳区",
+                    "companyShortName": "博创尚和",
+                    "score": 0,
+                    "formatCreateTime": "08:18发布",
+                    "companyFullName": "北京博创尚和科技有限公司",
+                    "adWord": 0,
+                    "businessZones": [
+                        "小营",
+                        "对外经贸",
+                        "芍药居"
+                    ],
+                    "imState": "disabled",
+                    "lastLogin": 1477873124000,
+                    "publisherId": 1505840,
+                    "explain": "岗位职责：
+                                1、抓住行业特点，整合资源策划组织各类市场营销活动；
+                                2、公司VI体系的建设、品牌的建设； 
+                                3、公司公共关系的处理；
+                                4、自媒体运营。
+
+                                任职资格：
+                                1、本科及以上学历，有敏锐的市场眼光；
+                                2、有较强的策划和大型活动的组织能力；
+                                3、有科技类公司VI体系建设的经验； 
+                                4、适应出差，有教育产品行业工作经验优先。",
+                    "plus": null,
+                    "pcShow": 0,
+                    "appShow": 0,
+                    "deliver": 0,
+                    "gradeDescription": null,
+                    "promotionScoreExplain": null,
+                    "firstType": null,
+                    "secondType": null,
+                    "positionLables": null
+                },
+                {
+                    "positionName": "资深UI设计师",
+                    "companyId": 66251,
+                    "workYear": "1-3年",
+                    "education": "本科",
+                    "jobNature": "全职",
+                    "positionId": 2057312,
+                    "createTime": "2016-10-28 18:48:40",
+                    "city": "北京",
+                    "companyLogo": "http://www.image1/M00/42/9C/CgYXBlXMNp2AHI5vAAE46yZ_aiY652.png",
+                    "industryField": "教育,硬件",
+                    "positionAdvantage": "晋升空间大 扁平管理 弹性工作",
+                    "salary": "10k-20k",
+                    "companySize": "50-150人",
+                    "approve": 1,
+                    "financeStage": "成长型(A轮)",
+                    "companyLabelList": [
+                        "岗位晋升",
+                        "通讯津贴",
+                        "弹性工作",
+                        "股票期权"
+                    ],
+                    "district": "朝阳区",
+                    "companyShortName": "么啊宝宝",
+                    "score": 0,
+                    "formatCreateTime": "2天前发布",
+                    "companyFullName": "么啊宝宝（北京）教育科技有限公司",
+                    "adWord": 0,
+                    "businessZones": [
+                        "燕莎",
+                        "三元桥",
+                        "亮马桥"
+                    ],
+                    "imState": "disabled",
+                    "lastLogin": 1477888967000,
+                    "publisherId": 5123662,
+                    "explain": "母婴大风口估值数亿高速成长公司，创立10个月融资两轮数千万元，爆款智能早教玩具
+                                岗位职责：
+
+                                1.负责多平台产品(官网，app，VI等)的用户界面设计，整体推进并输出视觉标准；
+                                2.责手移动端及pc端产品的GUI资源设计，包括图形、图标、动画等，对GUI的风格进行整体规划设计，维护和整理GUI资源工作；
+                                3.配合产品经理、工程师，进行产品的概念原型设计及细化的交互设计，配合进行用户测试及分析；
+                                4.负责产品演示、相应广告、相关专题图片、FLASH动画等设计制作；
+                                5.维护、对页面进行优化，使用户操作更趋于人性化。
+                                ",
+                    "plus": null,
+                    "pcShow": 0,
+                    "appShow": 0,
+                    "deliver": 0,
+                    "gradeDescription": null,
+                    "promotionScoreExplain": null,
+                    "firstType": null,
+                    "secondType": null,
+                    "positionLables": null
+                },
+                {
+                    "positionName": "成本会计",
+                    "companyId": 69419,
+                    "workYear": "3-5年",
+                    "education": "大专",
+                    "jobNature": "全职",
+                    "positionId": 1386888,
+                    "createTime": "2016-10-28 17:16:03",
+                    "city": "北京",
+                    "companyLogo": "http://www.image1/M00/25/DC/Cgo8PFVS7wmAUcXCAACRzAcOFpg858.png",
+                    "industryField": "硬件",
+                    "positionAdvantage": "电力行业前景广阔，股改完成拟上市公司",
+                    "salary": "7k-13k",
+                    "companySize": "500-2000人",
+                    "approve": 1,
+                    "financeStage": "成长型(B轮)",
+                    "companyLabelList": [
+                        "节日礼物",
+                        "技能培训",
+                        "绩效奖金",
+                        "岗位晋升"
+                    ],
+                    "district": "朝阳区",
+                    "companyShortName": "煜邦电力",
+                    "score": 0,
+                    "formatCreateTime": "2天前发布",
+                    "companyFullName": "北京煜邦电力技术股份有限公司",
+                    "adWord": 0,
+                    "businessZones": [
+                        "安贞",
+                        "和平街",
+                        "和平里"
+                    ],
+                    "imState": "disabled",
+                    "lastLogin": 1477646951000,
+                    "publisherId": 1685011,
+                    "explain": "岗位职责：
+
+                                1、负责核算生产工厂的产量、产值、收入，审核控制生产工厂的费用开支； 
+                                2、编制与生产部门有关的收入费用月报表，编制应付账款明细表； 
+                                3、负责管理和监督生产工厂产成品库，对成品库的出入库进行监督管理； 
+                                4、负责生产工厂的会计核算和账务处理，审核生产工厂生产计划、材料采购计划以及各种合同； 
+                                5、完成上级领导下达的其它任务。 
+
+                                任职要求：
+
+                                1、大专及以上学历，会计相关专业； 
+                                2、两年及以上会计相关工作经验，有工业行业成本核算经验者优先； 
+                                3、耐心、细致，具备一定的承压能力及良好的工作态度。
+                                ",
+                    "plus": null,
+                    "pcShow": 0,
+                    "appShow": 0,
+                    "deliver": 0,
+                    "gradeDescription": null,
+                    "promotionScoreExplain": null,
+                    "firstType": null,
+                    "secondType": null,
+                    "positionLables": null
+                },
+                {
+                    "positionName": "社交媒体运营实习生",
+                    "companyId": 26557,
+                    "workYear": "不限",
+                    "education": "本科",
+                    "jobNature": "实习",
+                    "positionId": 2520710,
+                    "createTime": "2016-10-28 15:24:55",
+                    "city": "北京",
+                    "companyLogo": "http://www.image1/M00/00/38/Cgo8PFTUXKOAawFOAABP7S6RhTs199.png",
+                    "industryField": "移动互联网,硬件",
+                    "positionAdvantage": "咖啡师,健身房,弹性工作制",
+                    "salary": "3k-4k",
+                    "companySize": "500-2000人",
+                    "approve": 1,
+                    "financeStage": "成长型(B轮)",
+                    "companyLabelList": [
+                        "绩效奖金",
+                        "年底双薪",
+                        "五险一金",
+                        "带薪年假"
+                    ],
+                    "district": "朝阳区",
+                    "companyShortName": "锤子科技",
+                    "score": 0,
+                    "formatCreateTime": "2天前发布",
+                    "companyFullName": "锤子科技（北京）有限公司",
+                    "adWord": 0,
+                    "businessZones": [
+                        "望京",
+                        "大山子",
+                        "酒仙桥"
+                    ],
+                    "imState": "overSevenDays",
+                    "lastLogin": 1474424539000,
+                    "publisherId": 5820130,
+                    "explain": "工作内容：
+                                1. 主要负责社交媒体的运营和维护工作；
+                                2. 社交媒体、微信、微博、等平台品牌推广信息的创意策划及文案撰写；
+                                3. 同事临时交付的其它事宜。
+
+                                任职要求：
+                                1. 要求极端认真、事无巨细、吃苦耐劳；
+                                2. 另外我们需要您能每周至少实习4天，持续时间在6个月以上；
+                                3. 实习期间会有一定数量的补贴,基于生活成本和地理位置等因素，我们倾向于目前在北京的同学。",
+                    "plus": null,
+                    "pcShow": 0,
+                    "appShow": 0,
+                    "deliver": 0,
+                    "gradeDescription": null,
+                    "promotionScoreExplain": null,
+                    "firstType": null,
+                    "secondType": null,
+                    "positionLables": null
+                },
+                {
+                    "positionName": "淘宝客服",
+                    "companyId": 66272,
+                    "workYear": "1年以下",
+                    "education": "大专",
+                    "jobNature": "全职",
+                    "positionId": 2305833,
+                    "createTime": "2016-10-28 15:19:43",
+                    "city": "北京",
+                    "companyLogo": "i/http://www.image/M00/48/1E/CgqKkVeRwgOAC6UQAACV5Z_9PY4004.png",
+                    "industryField": "硬件",
+                    "positionAdvantage": "五险一金,绩效奖金,节日福利,带薪年假",
+                    "salary": "3k-5k",
+                    "companySize": "50-150人",
+                    "approve": 0,
+                    "financeStage": "成长型(不需要融资)",
+                    "companyLabelList": [
+                        "节日礼物",
+                        "股票期权",
+                        "岗位晋升",
+                        "年度旅游"
+                    ],
+                    "district": "朝阳区",
+                    "companyShortName": "炫亿时代",
+                    "score": 0,
+                    "formatCreateTime": "2天前发布",
+                    "companyFullName": "北京炫亿时代科技有限公司",
+                    "adWord": 0,
+                    "businessZones": [
+                        "望京",
+                        "大山子",
+                        "花家地"
+                    ],
+                    "imState": "disabled",
+                    "lastLogin": 1474349203000,
+                    "publisherId": 2098916,
+                    "explain": "岗位职责：
+                                1、通过电商平台线上聊天工具接待客户，解答疑问，网上销售服务，促成交易，获取订单；
+                                2、负责答复、跟进及反馈网络客户咨询、并能解决一般投诉；
+                                3、基本熟悉电商平台的各种操作规则，处理客户要求，修改价格，管理店铺等；
+                                4、定期检查客服各环节，整理和分析售后服务过程中反馈的数据和信息，及时反馈给主管，保证售后服务质量；
+                                5、整理和分析交易过程中发现商品的问题（如描述不符，邮费设置，图片等）反馈到客服部主管上面；
+                                6、完成公司交予的其它事情等。
+
+                                任职要求：
+                                1、普通话标准，口齿清楚，思维敏捷；
+                                2、中文输入40字/分钟以上，能适应轮班轮休工作制（平均每天上班时间8小时）；
+                                3、具有京东、淘宝客服工作经验者优先。
+
+                                工作地址北京市海淀区上地信息路7号数字传媒大厦D18",
+                    "plus": null,
+                    "pcShow": 0,
+                    "appShow": 0,
+                    "deliver": 0,
+                    "gradeDescription": null,
+                    "promotionScoreExplain": null,
+                    "firstType": null,
+                    "secondType": null,
+                    "positionLables": null
+                },
+                {
+                    "positionName": "运营经理",
+                    "companyId": 68968,
+                    "workYear": "1-3年",
+                    "education": "大专",
+                    "jobNature": "全职",
+                    "positionId": 2411863,
+                    "createTime": "2016-10-28 15:16:08",
+                    "city": "北京",
+                    "companyLogo": "http://www.image1/M00/25/4F/CgYXBlVQvGGAfJT7AAByGHyunI8788.png",
+                    "industryField": "O2O,硬件",
+                    "positionAdvantage": "团队氛围浓，弹性工作",
+                    "salary": "4k-7k",
+                    "companySize": "15-50人",
+                    "approve": 1,
+                    "financeStage": "初创型(天使轮)",
+                    "companyLabelList": [
+                        "股票期权",
+                        "弹性工作",
+                        "敏捷协作",
+                        "三餐补助"
+                    ],
+                    "district": "朝阳区",
+                    "companyShortName": "溯联信息",
+                    "score": 0,
+                    "formatCreateTime": "2天前发布",
+                    "companyFullName": "北京溯联信息技术有限公司",
+                    "adWord": 0,
+                    "businessZones": [
+                        "来广营",
+                        "东小口",
+                        "立水桥"
+                    ],
+                    "imState": "threeDays",
+                    "lastLogin": 1477637403000,
+                    "publisherId": 1678171,
+                    "explain": "岗位职责：
+
+                                1.负责平台运营工作；
+                                2.对市场和用户需求进行深度分析，制定有效的运营策略；
+
+                                任职资格：
+
+                                1.具有运营APP或者公众号的经验和可以考察的用户运营数据；
+                                2.良好的外在形象与开朗的性格。",
+                    "plus": null,
+                    "pcShow": 0,
+                    "appShow": 0,
+                    "deliver": 0,
+                    "gradeDescription": null,
+                    "promotionScoreExplain": null,
+                    "firstType": null,
+                    "secondType": null,
+                    "positionLables": null
+                }
+            ]
+}
