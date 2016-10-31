@@ -1,0 +1,209 @@
+@charset = "utf-8";
+*{padding: 0;margin:0;}
+ul,li{list-style: none;}
+a{text-decoration: none;}
+html{
+	font-size: 20px ;
+	font-family: "Hiragino Sans GB", "微软雅黑", "宋体";
+}
+body,html{height: 100%;width: 100%;}
+.searchPage header{
+	height: 2.15rem;
+	background: #f6f6f7;
+	border-bottom: 0.05rem solid #d7d7d9;
+	position: fixed;
+	top: 0;left: 0;
+	width: 100%;
+	z-index: 1;
+}
+.searchPage .place{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 1rem;
+}
+.searchPage .place>p{
+	font-size: 0.75rem;
+	color: #00b38a;
+	display: inline-block;
+	vertical-align: middle;
+}
+.searchPage .place>span{
+	width: 0.4rem;height: 0.8rem; 
+	background: url(../images/left_green.gif) no-repeat;
+	background-size: 0.4rem 0.8rem;
+	display: inline-block;
+	vertical-align: middle;
+}
+.searchPage .search{
+	display: inline-block;
+	vertical-align: middle;
+	padding : 0.1rem 0.8rem 0.3rem 0.8rem;
+	border-radius: 0.8rem;
+	background: #e7e8ea;
+    box-sizing : border-box;
+    margin-top:0.275rem;
+    width: 75%; 
+}
+.searchPage .search span {
+	display: inline-block;vertical-align: middle;
+	width: 1rem;height: 1rem;
+	background: url(../images/icon2-sp1.png) no-repeat -0.7rem 0;
+	background-size: 14rem;
+}
+.searchPage .search input {
+	height: 0.8rem;line-height: 0.8rem;
+	vertical-align: middle;
+    font-size: 0.6rem;
+    border: none;outline: 0;
+    background: #e7e8ea;
+    width: 80%;
+}
+.searchPage .cancel{
+	display: inline-block;vertical-align: middle;
+	font-size: 0.75rem;
+	color: #333;
+	line-height: 2rem;
+}
+section nav {
+	position: fixed;
+	top: 2.16rem;
+	width: 100%;
+	background: #fff;
+	height: 2.225rem;
+	display: flex;
+	justify-content : space-around;
+	align-items:center;
+	font-size: 0.7rem;
+	color: #333;
+	border-bottom: 0.05rem solid #d7d7d9;
+	z-index: 2;
+	
+}
+section nav p{
+	display: inline-block;
+	vertical-align: middle;
+}
+section nav span{
+	display: inline-block;width: 0.4rem;height: 0.2rem;
+	background: url(../images/down_black.gif);
+	background-size: 0.4rem;vertical-align: middle;
+}
+.filterContent{
+	border-radius: 20px;
+}
+
+
+.range{
+	height: 7.5rem;
+	background: red;
+	padding-top: 4.5rem;
+}
+/*******************工作经验*********************/
+.experience{
+	width: 97%;
+	margin-left: 3%;
+	font-size: 0.65rem;
+}
+.short_years{
+	margin-top: 0.525rem;
+	width: 97%;
+	display: flex;
+	justify-content:space-between;
+}
+.short_years>span{
+	width: 3.875rem;
+	height: 1.35rem;
+	border: 1px solid #cccccc;
+	text-align: center;
+	line-height: 1.35rem;
+}
+.long_years{
+	margin-top: 0.75rem;
+	width: 97%;
+	display: flex;
+	justify-content:space-between;	
+}
+.long_years>span{
+	width: 3.875rem;
+	height: 1.35rem;
+	border: 1px solid #cccccc;
+	text-align: center;
+	line-height: 1.35rem;
+}
+.long_years>span:nth-of-type(3){
+	border: none;
+}
+.long_years>span:nth-of-type(4){
+	border: none;
+}
+
+/**********************学历要求*****************************/
+.degree{
+	width: 97%;
+	margin-left: 3%;
+	font-size: 0.65rem;
+	margin-top: 1.5rem;
+}
+.College_above{
+	margin-top: 0.525rem;
+	width: 97%;
+	display: flex;
+	justify-content:space-between;
+}
+.College_above>span{
+	width: 3.875rem;
+	height: 1.35rem;
+	border: 1px solid #cccccc;
+	text-align: center;
+	line-height: 1.35rem;
+}
+.no_require{
+	margin-top: 0.75rem;
+	width: 97%;
+	display: flex;
+	justify-content:space-between;	
+}
+.no_require>span{
+	width: 3.875rem;
+	height: 1.35rem;
+	text-align: center;
+	line-height: 1.35rem;
+}
+.no_require>span:nth-of-type(1){
+	border: 1px solid #cccccc;
+}
+/*********************工作性质************************/
+.job{
+	width: 97%;
+	margin-left: 3%;
+	font-size: 0.65rem;
+	margin-top: 1.5rem;
+}
+.jobs{
+	margin-top: 0.525rem;
+	width: 97%;
+	display: flex;
+	justify-content:space-between;
+}
+.jobs>span{
+	width: 3.875rem;
+	height: 1.35rem;
+	border: 1px solid #cccccc;
+	text-align: center;
+	line-height: 1.35rem;
+}
+.jobs>span:last-of-type{
+	border: none;
+}
+/*********************确定***************************/
+.yes{
+	width: 92%;
+	height:2.2rem;
+	background: #00b38a;
+	color: #fff;
+	font-size: 0.75rem;
+	margin: 0 auto;
+	margin-top: 2.25rem;
+	text-align: center;
+	line-height: 2.2rem;
+}

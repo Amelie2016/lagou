@@ -1,0 +1,925 @@
+{
+    "pageNo": 1,
+    "pageSize": 15,
+    "positionResult": {
+        "resultSize": 15,
+        "locationInfo": {
+            "city": "北京",
+            "district": "朝阳区",
+            "queryByGisCode": false,
+            "businessZone": null,
+            "locationCode": null
+        },
+        "queryAnalysisInfo": {
+            "positionName": null,
+            "companyName": null,
+            "usefulCompany": false,
+            "industryName": null
+        },
+        "strategyProperty": {
+            "name": "dm-csearch-newSimScorer",
+            "id": 1
+        },
+        "totalCount": 15187
+    },
+	"result": [
+	            {
+	                "companyId": 138832,
+	                "businessZones": [
+	                    "高碑店",
+	                    "十里堡",
+	                    "甘露园"
+	                ],
+	                "lastLogin": 1477878173000,
+	                "publisherId": 5635515,
+	                "explain": "岗位职责：
+	                            1、负责新媒体平台的日常维护运营,包含内容编辑、日常维护、活动策划、粉丝互动等,扩大粉丝数及提升粉丝的活跃度、互动率和黏性,同时提高自媒体的线上及线下影响力；
+	                            2、针对本行业及时捕捉本地和社会上的热点信息,并进行资料的搜集与编辑整理；
+	                            3、根据项目制定的内容方向发布各种优质、有传播性的内容；方案的策划、创意、执行、运营；
+	                            4、挖掘和分析新媒体用户需求,收集用户反馈,分析用户行为及需求；
+	                            5、和行业客户配合,完成新媒体重点栏目、专题的编辑及制作,提升流量和关注数量；
+	                            6、文字功底深厚，文笔流畅，能够对体育专题内容进行更深层次的撰写
+	                            任职资格：
+	                            1、能够独立运行公众号及具有IP运营管理经验者优先；
+	                            2、热爱体育运动，热爱互联网，有较强的文字功底能力和媒体经验，创意丰富，灵感不断，脑洞打开，拥有段子手特质；
+	                            3、能够提炼产品打动人的卖点，准确归纳产品特点；
+	                            4、经常关注微博、微信、体育论坛、体育实事、空间等新媒体；
+	                            5、能够把握社会化传播热点趋势，具备多元化思维者更佳；
+	                            6、具备高效的营销策划能力和营销策划的新媒体执行能力；
+	                            7、掌握多种互动文案和创意的表现形式、拥有较强的文字功底，对互联网文化敏感，能够准确把握受众的心态，能够祖撰写出有嘘头、高质量、符合市场需求的软文；
+	                            8、专科及以上学历，新闻、中文、体育相关专业；体育、互联网相关工作经验者优先。",
+	                "plus": null,
+	                "pcShow": 0,
+	                "appShow": 0,
+	                "deliver": 0,
+	                "gradeDescription": null,
+	                "promotionScoreExplain": null,
+	                "firstType": null,
+	                "secondType": null,
+	                "positionLables": null,
+	                "imState": "disabled",
+	                "companyFullName": "北京易动世纪科技发展有限公司",
+	                "adWord": 0,
+	                "formatCreateTime": "10:00发布",
+	                "positionId": 2490430,
+	                "industryField": "移动互联网,O2O",
+	                "education": "大专",
+	                "workYear": "1-3年",
+	                "city": "北京",
+	                "positionAdvantage": "期权股权，弹性工作，餐饮补助，五险一金",
+	                "createTime": "2016-10-31 10:00:15",
+	                "salary": "5k-10k",
+	                "positionName": "新媒体运营(体育编辑）",
+	                "companySize": "50-150人",
+	                "companyShortName": "派队",
+	                "companyLogo": "http://www.lgstatic.com/i/image/M00/44/E6/Cgp3O1eG8NGAJHN1AAAP_UhhDk0773.png",
+	                "financeStage": "成长型(A轮)",
+	                "approve": 0,
+	                "jobNature": "全职",
+	                "district": "朝阳区",
+	                "companyLabelList": null,
+	                "score": 0
+	            },
+	            {
+	                "companyId": 171,
+	                "businessZones": [
+	                    "望京",
+	                    "大山子",
+	                    "花家地"
+	                ],
+	                "lastLogin": 1477878012000,
+	                "publisherId": 830848,
+	                "explain": "职位描述:
+	                            负责国际机票供应商的政策管理及维护；
+	                            1、及时获取机票行业动态和信息，负责航线日常更新； 
+	                            根据航司及供应商优势产品，配合机票营销活动，提高机票销量；
+	                            2、分析运营数据，评估运营效果，为产品优化提供依据；
+	                            3、与相关部门协调，及时解决用户或供应商的问题； 
+	                            任职要求:
+	                            本科及以上学历，工作经验不限，有在线旅游行业工作经验优先； 
+	                            对数据敏感，具有良好的分析能力；
+	                            4、工作积极主动，认真细致，具有良好的理解和沟通协调能力；",
+	                "plus": null,
+	                "pcShow": 0,
+	                "appShow": 0,
+	                "deliver": 0,
+	                "gradeDescription": null,
+	                "promotionScoreExplain": null,
+	                "firstType": null,
+	                "secondType": null,
+	                "positionLables": null,
+	                "imState": "today",
+	                "companyFullName": "活力世纪科技（北京）有限公司",
+	                "adWord": 0,
+	                "formatCreateTime": "10:00发布",
+	                "positionId": 2460800,
+	                "industryField": "移动互联网",
+	                "education": "本科",
+	                "workYear": "不限",
+	                "city": "北京",
+	                "positionAdvantage": "优秀员工,股票奖励",
+	                "createTime": "2016-10-31 10:00:01",
+	                "salary": "5k-10k",
+	                "positionName": "机票运营专员",
+	                "companySize": "500-2000人",
+	                "companyShortName": "航班管家",
+	                "companyLogo": "http://www.lgstatic.com/i/image/M00/17/19/CgqKkVbw82CAAmBDAABb58-N6IM299.png",
+	                "financeStage": "成熟型(C轮)",
+	                "approve": 1,
+	                "jobNature": "全职",
+	                "district": "朝阳区",
+	                "companyLabelList": [
+	                    "技能培训",
+	                    "带薪年假",
+	                    "扁平管理",
+	                    "绩效津贴"
+	                ],
+	                "score": 0
+	            },
+	            {
+	                "companyId": 47640,
+	                "businessZones": [
+	                    "望京",
+	                    "花家地",
+	                    "来广营"
+	                ],
+	                "lastLogin": 1477878595000,
+	                "publisherId": 4239219,
+	                "explain": "岗位职责： 
+	                            1、接受客户项目咨询及投诉，按照相应流程及时给予客户反馈； 
+	                            2、为客户提供完整准确的信息以及处理方案，解决客户问题，提供高质量服务； 
+	                            3、负责相关单证的保管与存档；
+	                            4、有保险客服经验者优先。
+
+	                             任职要求： 
+	                            1、中专以上学历； 
+	                            2、熟练操作office软件；
+	                            3、高度的责任心和客户服务意识，亲和力强，有耐心；
+	                            4、良好的协调及沟通能力，较强的团队合作意识。 
+
+	                            上五休二，轮休制（不一定是周末），三班制：早八晚五、早九晚六、早十晚七。
+	                            工作地址：北京市朝阳区",
+	                "plus": null,
+	                "pcShow": 0,
+	                "appShow": 0,
+	                "deliver": 0,
+	                "gradeDescription": null,
+	                "promotionScoreExplain": null,
+	                "firstType": null,
+	                "secondType": null,
+	                "positionLables": null,
+	                "imState": "sevenDays",
+	                "companyFullName": "上海惠保数据科技有限公司",
+	                "adWord": 0,
+	                "formatCreateTime": "09:58发布",
+	                "positionId": 1780997,
+	                "industryField": "移动互联网,O2O",
+	                "education": "大专",
+	                "workYear": "不限",
+	                "city": "北京",
+	                "positionAdvantage": "餐补，补充医疗，年底13薪",
+	                "createTime": "2016-10-31 09:58:41",
+	                "salary": "4k-6k",
+	                "positionName": "客服专员",
+	                "companySize": "150-500人",
+	                "companyShortName": "上海惠保数据科技有限公司",
+	                "companyLogo": "http://www.lgstatic.com/i/image/M00/57/69/CgqKkVfPc6-AIo2QAABrAd_5wwI608.jpg",
+	                "financeStage": "成长型(B轮)",
+	                "approve": 1,
+	                "jobNature": "全职",
+	                "district": "朝阳区",
+	                "companyLabelList": [
+	                    "无限成长空间",
+	                    "快乐工作氛围"
+	                ],
+	                "score": 0
+	            },
+	            {
+	                "companyId": 26782,
+	                "businessZones": [
+	                    "京广桥",
+	                    "朝外",
+	                    "东大桥"
+	                ],
+	                "lastLogin": 1477662328000,
+	                "publisherId": 332798,
+	                "explain": "探探，2015年“最受女性欢迎的社交app”奖项获得者。
+	                            探探，2015年拉勾“社交领域最佳雇主”奖项获得者。
+	                            探探，2015年百度“年度创新应用”奖项获得者。
+	                            探探，2015年中国互联网大会“最具行业先锋奖”奖项获得者。
+	                            探探，2015年中国互联网大会授予探探团队行业先锋人物获得者。
+	                            截至到目前，已成就14亿次陌生人之间的浪漫配对。 
+	                            探探创造了一种惊喜感和趣味感十足的全新社交方式，在年轻人中迅速窜红，上线1年完成千万美金级的B轮融资，并于2016年5月完成3200万美元C轮融资。
+
+	                            社交是一个巨大的市场，目前投资商对探探的现估值上亿美金，并且扔处于高速增长期。我们希望凭借团队优秀的产品、技术实力，在这个领域做出一款出色的产品。
+
+	                            目前团队成员来自硅谷、BAT、知名创业公司等。我们希望参照硅谷的管理模式，创建一个工程师文化浓厚、重视工作幸福感、technology driven的公司。每年我们还会派出技术同事参加重磅级技术峰会，比如我司技术参加PostgreSQL2015年欧洲技术分享会,并参与重要演讲。
+
+	                            职位描述：
+
+	                            1. 迎接10亿+ 用户数据的挖掘、分析挑战；
+	                            2. 与团队同事协作，挖掘总体数据价值，满足各个部门的数据提取需求；
+	                            3. 根据产品需求，挖掘用户使用行为，追踪各项转化率。
+	                             
+	                             职位要求：
+
+	                            1. 拥有2年以上互联网／移动互联网产品数据挖掘、数据分析等工作经验；
+	                            2. 对数据有敏锐的洞察，快速的业务理解及学习能力；
+	                            3.熟悉Mysql或Oracle数据库，精通SQL；
+	                            4.熟练使用C、Golang、php、Java、Python中至少一种语言；
+	                            5.思路清晰，主动性强，有很强的自我驱动能力。
+
+	                             符合以下条件优先：
+
+	                            1.英文技术文献阅读和理解能力；
+	                            2.有社交、电商、O2O数据挖掘经验。",
+	                "plus": null,
+	                "pcShow": 0,
+	                "appShow": 0,
+	                "deliver": 0,
+	                "gradeDescription": null,
+	                "promotionScoreExplain": null,
+	                "firstType": null,
+	                "secondType": null,
+	                "positionLables": null,
+	                "imState": "threeDays",
+	                "companyFullName": "探探科技（北京）有限公司",
+	                "adWord": 0,
+	                "formatCreateTime": "09:58发布",
+	                "positionId": 193256,
+	                "industryField": "移动互联网,文化娱乐",
+	                "education": "本科",
+	                "workYear": "1-3年",
+	                "city": "北京",
+	                "positionAdvantage": "2016最黑马的社交应用、最值钱的股权激励",
+	                "createTime": "2016-10-31 09:58:14",
+	                "salary": "15k-25k",
+	                "positionName": "数据挖掘工程师",
+	                "companySize": "150-500人",
+	                "companyShortName": "探探",
+	                "companyLogo": "http://www.lgstatic.com/image2/M00/28/40/CgqLKVallAaACYowAACgQYuOO3g479.PNG",
+	                "financeStage": "成熟型(C轮)",
+	                "approve": 1,
+	                "jobNature": "全职",
+	                "district": "朝阳区",
+	                "companyLabelList": [
+	                    "股票期权",
+	                    "带薪年假",
+	                    "岗位晋升",
+	                    "扁平管理"
+	                ],
+	                "score": 0
+	            },
+	            {
+	                "companyId": 29496,
+	                "businessZones": [
+	                    "团结湖",
+	                    "朝阳公园",
+	                    "三里屯"
+	                ],
+	                "lastLogin": 1477878802000,
+	                "publisherId": 4614607,
+	                "explain": "岗位职责：
+
+	                            1、负责业务部门的人员招聘，及人员融入和整合的工作
+	                            2、深入了解所负责部门业务与人员发展状况，并有针对性的开展组织与人才发展工作；
+	                            3、帮助制定并实施业务部门的绩效考核及评估工作；
+	                            4、提升业务部门主管的人力资源管理能力，关注关键人才培养与挽留，确保持续的沟通与反馈；
+	                            5、协助公司管理层进行人才管理、团队与文化建设，确保公司文化在所属业务领域的落地。
+	                            6、实施日常员工沟通：如业务中心基础知识导入、新进面谈、关心工程、文化辅导、离职面谈等
+	                            7、关键岗位员工名单与留人/接班人计划草拟，协助员工发展计划的实施
+
+	                            任职要求：
+
+	                            1、人力资源相关专业，3年以上工作经验
+	                            2、本科及以上学历；
+	                            3、办事认真细心，有责任心
+	                            4、有团队协作能力；
+	                            5、亲和力、沟通力强
+
+	                            欢迎符合条件的求职者积极投递简历，人事部将在第一时间和您取得联系，请耐心等待我们的电话，谢谢您的合作。
+	                            ",
+	                "plus": null,
+	                "pcShow": 0,
+	                "appShow": 0,
+	                "deliver": 0,
+	                "gradeDescription": null,
+	                "promotionScoreExplain": null,
+	                "firstType": null,
+	                "secondType": null,
+	                "positionLables": null,
+	                "imState": "disabled",
+	                "companyFullName": "北京闪银奇异科技有限公司",
+	                "adWord": 0,
+	                "formatCreateTime": "09:57发布",
+	                "positionId": 1966811,
+	                "industryField": "移动互联网,金融",
+	                "education": "本科",
+	                "workYear": "3-5年",
+	                "city": "北京",
+	                "positionAdvantage": "六险一金 补充医疗 自助午餐 年度体检",
+	                "createTime": "2016-10-31 09:57:51",
+	                "salary": "6k-10k",
+	                "positionName": "HRBP",
+	                "companySize": "150-500人",
+	                "companyShortName": "闪银奇异",
+	                "companyLogo": "http://www.lgstatic.com/image1/M00/00/41/Cgo8PFTUXMuAeMAuAABAtFBcbOM313.png",
+	                "financeStage": "成长型(B轮)",
+	                "approve": 1,
+	                "jobNature": "全职",
+	                "district": "朝阳区",
+	                "companyLabelList": [
+	                    "13~15薪",
+	                    "晋升空间大",
+	                    "定期体检",
+	                    "能力定薪"
+	                ],
+	                "score": 0
+	            },
+	            {
+	                "companyId": 15217,
+	                "businessZones": [
+	                    "酒仙桥",
+	                    "大山子",
+	                    "将台路"
+	                ],
+	                "lastLogin": 1477645488000,
+	                "publisherId": 2397861,
+	                "explain": "该职位为代友公司招聘（海外旅行消费升级类app）
+
+	                            我们希望你是：
+	                            1、愿意加入创业团队，勇于接受挑战，学习能力强，对自我要求高
+	                            2、爱旅行爱玩，眼界宽阔
+	                            3、具备高度洞察力、敏锐度，有悟性
+	                            4、时刻保持好奇心，愿意尝试新鲜事物
+
+	                            岗位职责：
+	                             －－负责app平台中海外旅行有关休闲娱乐、美食等类目产品介绍、说明文字等文案撰写；
+	                            －－负责app平台中相关频道的专题策划及包装上线；
+
+	                            －－负责新媒体平台中海外旅行相关内容原创及运营；
+	                            －－把握目标用户特点，并根据实际项目进行整体构思，独立完成创意、文案及所需多种形式的内容支持工作；
+	                            －－能与相关团队紧密沟通、合作，根据项目情况及需求对数据资料文字稿进行审核、改写，能提出内容优化方案，并拟定文案内容；
+
+	                            任职要求：
+
+	                            －－新闻、中文、广告或相关专业，统招本科及以上学历；
+	                            －－熟悉app内容运营及各类新媒体内容运营，文字功底强，能精准提炼产品卖点，洞悉客户心里，能清晰表达自我创意，优秀的说明文字，热爱文案；
+	                            －－爱玩爱旅行有趣脑子活，热爱学习，性格乐观；
+	                            －－了解吃喝玩乐类产品文案、软文、活动说明等多种写作形式，并熟练操作OFFICE等办公软件；
+	                            －－对市场营销、广告策划和媒体策略有一定的了解工作经验者优先；
+
+	                            公司简介：
+
+	                            荷花移动是一家年轻并极具成长潜力的互联网创业公司，致力于打造国内首家针对海外旅行消费升级类app平台，已获天使轮投资数百万。当前主要推广东南亚市场，提供多个旅行目的地的旅游资讯，以帮助旅行者在旅途中作出旅游消费决策。同时我们利用丰富资源为客户定制高端旅行，组织大型活动，使用户获得良好体验。
+	                            期待会玩有趣的小伙伴加入！",
+	                "plus": null,
+	                "pcShow": 0,
+	                "appShow": 0,
+	                "deliver": 0,
+	                "gradeDescription": null,
+	                "promotionScoreExplain": null,
+	                "firstType": null,
+	                "secondType": null,
+	                "positionLables": null,
+	                "imState": "threeDays",
+	                "companyFullName": "北京优森移动互联网科技有限公司",
+	                "adWord": 0,
+	                "formatCreateTime": "09:57发布",
+	                "positionId": 2503691,
+	                "industryField": "移动互联网",
+	                "education": "本科",
+	                "workYear": "不限",
+	                "city": "北京",
+	                "positionAdvantage": "五险一金,团队融洽,职业发展大,老板好",
+	                "createTime": "2016-10-31 09:57:40",
+	                "salary": "5k-10k",
+	                "positionName": "内容运营",
+	                "companySize": "50-150人",
+	                "companyShortName": "优森移动",
+	                "companyLogo": "http://www.lgstatic.com/i/image/M00/35/02/Cgp3O1dXl5SAbYqzAAAGTAqGwko638.png",
+	                "financeStage": "成长型(不需要融资)",
+	                "approve": 0,
+	                "jobNature": "全职",
+	                "district": "朝阳区",
+	                "companyLabelList": [
+	                    "绩效奖金",
+	                    "年终分红",
+	                    "专项奖金",
+	                    "年底双薪"
+	                ],
+	                "score": 0
+	            },
+	            {
+	                "companyId": 139772,
+	                "businessZones": [
+	                    "常营",
+	                    "管庄"
+	                ],
+	                "lastLogin": 1477878680000,
+	                "publisherId": 5405096,
+	                "explain": "岗位职责：
+
+	                            1、根据公司业务需求，制定市场营销方案和推广策略，完成销售计划；
+	                            2、带领销售团队开拓新市场,发展新客户,增加产品销售范围；
+	                            3、公司网站运营，从产品、客户、销售额以及市场等维度对后台数据进行横向和纵向整理、分析，制作数据分析报告，并基于数据分析发现问题，发现商机或调整业务策略；
+	                            4、制定并分配销售指标，并随时跟踪各销售区域数据，组织每周、每月、每季度的销售会议，提供预测、预警和针对性策略建议； 
+	                            5、销售团队管理，建立销售人员的奖励激励机制；
+	                            6、总经理安排的其他任务。
+
+	                            任职资格：
+
+	                            1、大专以上学历，理工科类优先，对电子产品感兴趣；
+	                            2、5年以上快消品行业或者电商互联网行业销售管理或者市场营销经验；
+	                            3、具有较强的产品、用户心理分析的能力与看法，对市场发展方向和动态有较强的分析能力，了解网站用户的服务需求，能够根据需求与市场变化迅速做出回应；
+	                            4、良好的英语沟通能力；
+	                            5、较强的数据分析能力；
+	                            6、认同企业文化。
+	                            ",
+	                "plus": null,
+	                "pcShow": 0,
+	                "appShow": 0,
+	                "deliver": 0,
+	                "gradeDescription": null,
+	                "promotionScoreExplain": null,
+	                "firstType": null,
+	                "secondType": null,
+	                "positionLables": null,
+	                "imState": "disabled",
+	                "companyFullName": "北京铨顺邦达汽车电子科技有限公司",
+	                "adWord": 0,
+	                "formatCreateTime": "09:56发布",
+	                "positionId": 2381400,
+	                "industryField": "电子商务,移动互联网",
+	                "education": "大专",
+	                "workYear": "5-10年",
+	                "city": "北京",
+	                "positionAdvantage": "五险一金双休法定节假日餐补奖金团队活动",
+	                "createTime": "2016-10-31 09:56:59",
+	                "salary": "10k-15k",
+	                "positionName": "外贸经理",
+	                "companySize": "15-50人",
+	                "companyShortName": "Autokey",
+	                "companyLogo": "http://www.lgstatic.com/i/image/M00/46/DE/Cgp3O1eNz_CAfm6pAAASUXMiEUI494.jpg",
+	                "financeStage": "初创型(不需要融资)",
+	                "approve": 0,
+	                "jobNature": "全职",
+	                "district": "朝阳区",
+	                "companyLabelList": null,
+	                "score": 0
+	            },
+	            {
+	                "companyId": 63010,
+	                "businessZones": [
+	                    "八里庄",
+	                    "十里堡",
+	                    "红庙"
+	                ],
+	                "lastLogin": 1477878490000,
+	                "publisherId": 4860429,
+	                "explain": "1. 负责分析支付行业的应用趋势，开展产品市场需求调研，与同类产品市场资料的收集；
+	                            2. 负责全产品线管理，从需求分析中提炼产品新功能、对已有功能进行优化，提供中长期产品设计建议，分析并合理利用公司资源，设计有公司特色优势与服务优势的产品，并完成产品规划到需求实施的管理；
+	                            4. 负责支付产品的功能设计、原型设计以及产品需求书等相关需求文档的编写，协助开发、测试团队理解和掌握需求，对产品需求方向和易用性负责；
+	                            5、跟踪产品开发项目周期、协调各方资源，跟进设计、开发、测试阶段，协助推进项目进度。
+	                            6、配合市场销售部门制定产品推广规划，
+	                            7、监控并分析产品数据，收集用户需求及反馈，持续优化改进用户体验，保证产品的竞争优势；
+
+	                            岗位要求：
+
+	                            1. 本科以上学历， 5年以上支付、金融产品或互联网产品、项目管理经验；
+	                            2. 熟悉支付、金融或互联网产品设计与开发管理、项目管理、市场营销原理，有银行、第三方支付公司产品管理经验者优先；
+	                            3. 有成功的互联网C端产品设计经验，有成功的支付产品设计经验优先；
+	                            4. 具备良好的沟通能力、执行能力；有良好的团队精神，严谨细致、能承受一定的压力。
+	                            工作地点：北京市朝阳区东四环中路39号华业国际A座218",
+	                "plus": null,
+	                "pcShow": 0,
+	                "appShow": 0,
+	                "deliver": 0,
+	                "gradeDescription": null,
+	                "promotionScoreExplain": null,
+	                "firstType": null,
+	                "secondType": null,
+	                "positionLables": null,
+	                "imState": "threeDays",
+	                "companyFullName": "重庆聚禾富科技有限公司",
+	                "adWord": 0,
+	                "formatCreateTime": "09:56发布",
+	                "positionId": 2367706,
+	                "industryField": "移动互联网,电子商务",
+	                "education": "大专",
+	                "workYear": "3-5年",
+	                "city": "北京",
+	                "positionAdvantage": "五险一金，补充医疗，年终奖，过节福利",
+	                "createTime": "2016-10-31 09:56:25",
+	                "salary": "15k-25k",
+	                "positionName": "产品总监",
+	                "companySize": "50-150人",
+	                "companyShortName": "聚禾富",
+	                "companyLogo": "http://www.lgstatic.com/i/image/M00/26/2B/CgqKkVcggimAGZLlAAAToWB8448184.png",
+	                "financeStage": "成长型(不需要融资)",
+	                "approve": 0,
+	                "jobNature": "全职",
+	                "district": "朝阳区",
+	                "companyLabelList": null,
+	                "score": 0
+	            },
+	            {
+	                "companyId": 102212,
+	                "businessZones": [
+	                    "望京",
+	                    "来广营"
+	                ],
+	                "lastLogin": 1477878616000,
+	                "publisherId": 4886401,
+	                "explain": "工作职责：
+
+	                            1、通过电话访问，了解学员学习需求，给学员提供专业的课程介绍，邀约来访；
+	                            2、准确输入或更新学员基本信息及预约信息、回访信息，提高学生满意度与认知度，完成来访指标；
+	                            3、按照学员需求将学员直接邀约至相应中心。
+
+	                            任职要求：
+	                            1、年龄22-30岁，大专以上学历；
+	                            2、普通话标准，吐字清晰流畅，具有良好的沟通能力；
+	                            3、服务意识强，能承受工作压力；
+	                            4、工作热情，积极主动，有责任感及良好的团队合作意识和自我管理能力；
+	                            5、熟练使用电脑操作系统及Office办公软件。",
+	                "plus": null,
+	                "pcShow": 0,
+	                "appShow": 0,
+	                "deliver": 0,
+	                "gradeDescription": null,
+	                "promotionScoreExplain": null,
+	                "firstType": null,
+	                "secondType": null,
+	                "positionLables": null,
+	                "imState": "today",
+	                "companyFullName": "达内时代科技集团有限公司",
+	                "adWord": 0,
+	                "formatCreateTime": "09:56发布",
+	                "positionId": 2522004,
+	                "industryField": "移动互联网,教育",
+	                "education": "大专",
+	                "workYear": "不限",
+	                "city": "北京",
+	                "positionAdvantage": "上市公司+五险一金+餐补+双休",
+	                "createTime": "2016-10-31 09:56:23",
+	                "salary": "5k-8k",
+	                "positionName": "电话专员 （上市公司+五险一金+餐补+双休）",
+	                "companySize": "2000人以上",
+	                "companyShortName": "达内集团",
+	                "companyLogo": "http://www.lgstatic.com/i/image/M00/4C/31/Cgp3O1ehsCqAZtIMAABN_hi-Wcw263.jpg",
+	                "financeStage": "上市公司",
+	                "approve": 1,
+	                "jobNature": "全职",
+	                "district": "朝阳区",
+	                "companyLabelList": [
+	                    "技能培训",
+	                    "股票期权",
+	                    "专项奖金",
+	                    "带薪年假"
+	                ],
+	                "score": 0
+	            },
+	            {
+	                "companyId": 90916,
+	                "businessZones": [
+	                    "双井",
+	                    "南磨房",
+	                    "劲松"
+	                ],
+	                "lastLogin": 1477878415000,
+	                "publisherId": 5300192,
+	                "explain": "职位要求
+
+	                           1、Java基础、jsp/servlet、js、jquery掌握一定要扎实，
+	                           2、思维逻辑好，
+	                           3、新框架（ssm、ssh）了解基本原理和使用规则，并且能够熟练使用，",
+	                "plus": null,
+	                "pcShow": 0,
+	                "appShow": 0,
+	                "deliver": 0,
+	                "gradeDescription": null,
+	                "promotionScoreExplain": null,
+	                "firstType": null,
+	                "secondType": null,
+	                "positionLables": null,
+	                "imState": "disabled",
+	                "companyFullName": "中科软科技股份有限公司-金融渠道部",
+	                "adWord": 0,
+	                "formatCreateTime": "09:55发布",
+	                "positionId": 2078992,
+	                "industryField": "移动互联网,数据服务",
+	                "education": "本科",
+	                "workYear": "1-3年",
+	                "city": "北京",
+	                "positionAdvantage": "带薪年假，五险一金，发展空间大",
+	                "createTime": "2016-10-31 09:55:58",
+	                "salary": "6k-10k",
+	                "positionName": "Java",
+	                "companySize": "2000人以上",
+	                "companyShortName": "中科软科技",
+	                "companyLogo": "http://www.lgstatic.com/i/image/M00/16/D6/Cgp3O1bwor-ABvwtAAAUq9nzhww852.jpg",
+	                "financeStage": "上市公司",
+	                "approve": 0,
+	                "jobNature": "全职",
+	                "district": "朝阳区",
+	                "companyLabelList": null,
+	                "score": 0
+	            },
+	            {
+	                "companyId": 44091,
+	                "businessZones": [
+	                    "酒仙桥",
+	                    "将台路",
+	                    "大山子"
+	                ],
+	                "lastLogin": 1477878589000,
+	                "publisherId": 3557386,
+	                "explain": "岗位职责：
+
+	                            1、独立负责外部业务拓展，并梳理相关流程，落实长期业务对接；
+	                            2、能够独立的负责外联工作；
+	                            3、负责增值税发票、普通发票等各种发票领购、保管，按规定及时登记发票领购薄；
+	                            4、负责开具、寄出增值税发票、普通发票等；
+	                            5、负责发票、税务相关资料的装订存档；
+	                            6、每月对业务来源进行综合分析，提出合理化建议。
+
+	                            任职要求：
+
+	                            1、全日制本科及以上学历，财务管理、市场管理、会计等相关专业；
+	                            2、掌握财务管理、会计专业基础知识，具有会计从业资格证；
+	                            3、具有1年以上的销售、房地产、外联工作经验，熟悉北京房地产市场者优先考虑；
+	                            4、熟练使用办公软件、EXCEL、WORD等；
+	                            5、有强烈的责任心和学习意愿，逻辑思维清晰，喜欢挑战新事物，有一定的抗压能力。
+	                            ",
+	                "plus": null,
+	                "pcShow": 0,
+	                "appShow": 0,
+	                "deliver": 0,
+	                "gradeDescription": null,
+	                "promotionScoreExplain": null,
+	                "firstType": null,
+	                "secondType": null,
+	                "positionLables": null,
+	                "imState": "today",
+	                "companyFullName": "北京自如友家资产管理有限公司",
+	                "adWord": 0,
+	                "formatCreateTime": "09:55发布",
+	                "positionId": 2418149,
+	                "industryField": "移动互联网,O2O",
+	                "education": "本科",
+	                "workYear": "1-3年",
+	                "city": "北京",
+	                "positionAdvantage": "六险一金 租房折扣 五星级办公环境",
+	                "createTime": "2016-10-31 09:55:41",
+	                "salary": "5k-8k",
+	                "positionName": "开票拓展专员",
+	                "companySize": "2000人以上",
+	                "companyShortName": "自如网",
+	                "companyLogo": "http://www.lgstatic.com/image1/M00/0E/27/Cgo8PFT5fXCAWXgmAAB9s4MsAAU976.jpg",
+	                "financeStage": "成熟型(不需要融资)",
+	                "approve": 1,
+	                "jobNature": "全职",
+	                "district": "朝阳区",
+	                "companyLabelList": [
+	                    "丰厚年薪",
+	                    "六险一金",
+	                    "健康体检",
+	                    "带薪年假"
+	                ],
+	                "score": 0
+	            },
+	            {
+	                "companyId": 17301,
+	                "businessZones": [
+	                    "东大桥",
+	                    "CBD",
+	                    "朝外"
+	                ],
+	                "lastLogin": 1477877687000,
+	                "publisherId": 4944483,
+	                "explain": "岗位要求
+
+	                            1.【教育背景】本科及以上学历，若工作经历稳定且有突出业绩证明，教育背景要求可酌情考虑
+	                            2.【工作经验】5年以上软件行业、互联网广告行业或医药行业销售团队管理经验；拥有医药行业客户资源者优先，拥有销售团队组建经验者优先
+	                            3.【业务能力】拥有较强的结果驱动能力、逻辑思维及分析能力、统筹规划能力、团队管理能力、极强的问题解决能力，同时拥有较为丰富的知识涉猎，拥有医药行业从业背景者优先考虑
+	                            4.【职场素养】为人正直，有底线；注重承诺；成熟、守信、真诚，拥有良好的团队协作及合作能力，善于沟通交流，理性处理问题
+	                            5.【主动自驱】热爱并肯定自己的工作，善于思考、分析，愿意不断迎接新的挑战！",
+	                "plus": null,
+	                "pcShow": 0,
+	                "appShow": 0,
+	                "deliver": 0,
+	                "gradeDescription": null,
+	                "promotionScoreExplain": null,
+	                "firstType": null,
+	                "secondType": null,
+	                "positionLables": null,
+	                "imState": "threeDays",
+	                "companyFullName": "北京班德尔科技有限公司",
+	                "adWord": 0,
+	                "formatCreateTime": "09:55发布",
+	                "positionId": 2523933,
+	                "industryField": "移动互联网,企业服务",
+	                "education": "本科",
+	                "workYear": "5-10年",
+	                "city": "北京",
+	                "positionAdvantage": "待遇丰厚 福利多 发展前景好",
+	                "createTime": "2016-10-31 09:55:29",
+	                "salary": "20k-40k",
+	                "positionName": "高级销售总监",
+	                "companySize": "50-150人",
+	                "companyShortName": "ideabinder",
+	                "companyLogo": "http://www.lgstatic.com/image1/M00/00/20/CgYXBlTUWG-AP4SRAAAl9gdn3AY479.png",
+	                "financeStage": "成长型(A轮)",
+	                "approve": 1,
+	                "jobNature": "全职",
+	                "district": "朝阳区",
+	                "companyLabelList": [
+	                    "五险一金",
+	                    "年终分红",
+	                    "带薪年假",
+	                    "节日礼物"
+	                ],
+	                "score": 0
+	            },
+	            {
+	                "companyId": 109675,
+	                "businessZones": null,
+	                "lastLogin": 1477878579000,
+	                "publisherId": 3507684,
+	                "explain": "【工作职责】
+	                            1．负责互联网腾讯项目推广及销售；
+	                            2．开拓业务，联络、跟进客户，维护良好的客户关系；
+	                            3．熟悉公司各类产品知识及销售话术，为客户提供最具针对性的产品及服务；
+	                            4．分析客户需求，为客户提供咨询服务，制定网络营销方案；
+	                            5．根据公司要求完成销售目标。
+
+	                            【岗位要求】
+	                            1．学历不限，乐于从事销售工作. 有强烈的事业心；
+	                            2．良好的语言表达能力和沟通技巧；
+	                            3．有责任感，强烈的上进心，能吃苦；做事坚持，有耐力，富有团队精神；
+	                            4．良好的学习意识，能应对新的挑战，有志于成为专业的IT营销专家。
+
+	                            【福利薪酬】
+	                             薪资待遇：无责底薪+提成2%-30%+开单奖金+五险一金+ 双休+班车+其他福利
+	                             晋升路线：初级销售-中级销售-高级销售-资深销售-客户总监
+	                                        销售主管-销售经理-高级经理-销售总监-销售副总 ",
+	                "plus": null,
+	                "pcShow": 0,
+	                "appShow": 0,
+	                "deliver": 0,
+	                "gradeDescription": null,
+	                "promotionScoreExplain": null,
+	                "firstType": null,
+	                "secondType": null,
+	                "positionLables": null,
+	                "imState": "disabled",
+	                "companyFullName": "北京全时天地在线网络信息股份有限公司",
+	                "adWord": 0,
+	                "formatCreateTime": "09:54发布",
+	                "positionId": 1361780,
+	                "industryField": "移动互联网,广告营销",
+	                "education": "不限",
+	                "workYear": "不限",
+	                "city": "北京",
+	                "positionAdvantage": "岗位晋升 正常转正 专人带领 通州班车",
+	                "createTime": "2016-10-31 09:54:58",
+	                "salary": "3k-6k",
+	                "positionName": "销售实习生",
+	                "companySize": "500-2000人",
+	                "companyShortName": "全时天地在线",
+	                "companyLogo": "http://www.lgstatic.com/i/image/M00/01/5F/Cgp3O1Zo63-Afo4mAAAczESwTe8074.png",
+	                "financeStage": "初创型(未融资)",
+	                "approve": 0,
+	                "jobNature": "全职",
+	                "district": "朝阳区",
+	                "companyLabelList": [
+	                    "绩效奖金",
+	                    "带薪年假",
+	                    "管理规范",
+	                    "技能培训"
+	                ],
+	                "score": 0
+	            },
+	            {
+	                "companyId": 97968,
+	                "businessZones": [
+	                    "亮马桥",
+	                    "三元桥",
+	                    "燕莎"
+	                ],
+	                "lastLogin": 1477878842000,
+	                "publisherId": 3974780,
+	                "explain": "岗位职责：
+
+	                            1、负责公司微信日常文案的信息收集、撰写编辑及发布；
+	                            2、收集、研究网络热点话题，结合新媒体及公司产品特性，对微信公众号内容实时调整和更新；
+	                            3、配合公司品牌宣传、线上线下等推广活动，撰写相关文案；
+	                            4、根据产品特性、更新迭代情况，撰写产品推广相关文案。
+
+	                            任职要求：
+
+	                            1、新闻学、广告学、金融学等专业本科以上学历，211或985类院校优先；
+	                            2、新媒体运营3年以上工作经历，运营过10W粉丝+公众号优先；
+	                            3、具备挖掘和分析用户使用习惯、情感及体验感受的持续创新能力，能及时结合时事热点事件，有效完成专题策划活动；
+	                            4、逻辑思维清晰，较强的搜索及分析能力，沟通良好，具有良好的团队意识。
+	                            优秀者薪资可谈，欢迎广大有志之士到来！",
+	                "plus": null,
+	                "pcShow": 0,
+	                "appShow": 0,
+	                "deliver": 0,
+	                "gradeDescription": null,
+	                "promotionScoreExplain": null,
+	                "firstType": null,
+	                "secondType": null,
+	                "positionLables": null,
+	                "imState": "sevenDays",
+	                "companyFullName": "信龙（北京）网络科技有限公司",
+	                "adWord": 0,
+	                "formatCreateTime": "09:54发布",
+	                "positionId": 1486201,
+	                "industryField": "移动互联网,金融",
+	                "education": "本科",
+	                "workYear": "1-3年",
+	                "city": "北京",
+	                "positionAdvantage": "五险一金 法定节假日 定期体检等",
+	                "createTime": "2016-10-31 09:54:11",
+	                "salary": "6k-12k",
+	                "positionName": "财经编辑",
+	                "companySize": "15-50人",
+	                "companyShortName": "信龙公司",
+	                "companyLogo": "http://www.lgstatic.com/image2/M00/08/E1/CgqLKVYEuSeAC-JEAAA4BP6zAGE218.png?cc=0.11856704276208846",
+	                "financeStage": "初创型(不需要融资)",
+	                "approve": 1,
+	                "jobNature": "全职",
+	                "district": "朝阳区",
+	                "companyLabelList": [
+	                    "节日礼物",
+	                    "股票期权",
+	                    "带薪年假",
+	                    "扁平管理"
+	                ],
+	                "score": 0
+	            },
+	            {
+	                "companyId": 26128,
+	                "businessZones": [
+	                    "双井",
+	                    "劲松",
+	                    "南磨房"
+	                ],
+	                "lastLogin": 1477878781000,
+	                "publisherId": 318607,
+	                "explain": "1、负责市场文案、图片、视频、策划等内容的审核、规划及运营工作；
+	                            2、负责平台相关专题策划、制作；策划和组织线上、线下活动，提升用户的积极性及粘性；
+	                            3、有效利用时效性事件、重大事件，策划具有公司自有个性的运营内容；
+	                            4、负责跟踪每周运营指标，分析运营数据，改善运营方案，提升运营效果；
+	                            5、结合平台产品优势及自身资源，开发拓展媒体及各行业合作伙伴，提升业务品牌知名度；
+	                            6、通过新媒体运营、内容合作、活动合作等整合各种推广渠道，提高用户使用活跃度。
+
+	                            1、专科及以上学历，具备互联网视频或近似领域内容运营经验，有大型互联网内容运营经验者优先；
+	                            2、熟悉网络媒体传播特点，对社会化媒体传播有独到的理解和驾驭，有敏锐的洞察力、富于激情的创意思维，有较好的文字功底，懂得线上传播技巧；
+	                            3、有较强的整体营销策划能力及创新能力，有新媒体编辑和运营的实习经验，有具体策划执行项目的案例；
+	                            4、具备极其优秀的跨团队协作及跨团队流程梳理能力，熟练使用Office等办公软件；
+	                            5、工作认真细致，有团队合作精神和高度责任感，思维敏捷，能够承受较大的工作压力。
+
+	                            ",
+	                "plus": null,
+	                "pcShow": 0,
+	                "appShow": 0,
+	                "deliver": 0,
+	                "gradeDescription": null,
+	                "promotionScoreExplain": null,
+	                "firstType": null,
+	                "secondType": null,
+	                "positionLables": null,
+	                "imState": "disabled",
+	                "companyFullName": "中辉乾坤（北京）数字电视投资管理有限公司",
+	                "adWord": 0,
+	                "formatCreateTime": "09:54发布",
+	                "positionId": 1298695,
+	                "industryField": "移动互联网,硬件",
+	                "education": "大专",
+	                "workYear": "3-5年",
+	                "city": "北京",
+	                "positionAdvantage": "福利待遇",
+	                "createTime": "2016-10-31 09:54:02",
+	                "salary": "10k-15k",
+	                "positionName": "市场策划（家电行业）",
+	                "companySize": "50-150人",
+	                "companyShortName": "中辉乾坤",
+	                "companyLogo": "http://www.lgstatic.com/image2/M00/07/56/CgqLKVX_X3qARSmMAAAkrbHZFSY156.png",
+	                "financeStage": "上市公司",
+	                "approve": 0,
+	                "jobNature": "全职",
+	                "district": "朝阳区",
+	                "companyLabelList": [
+	                    "绩效奖金",
+	                    "年底双薪",
+	                    "五险一金",
+	                    "交通补助"
+	                ],
+	                "score": 0
+	            }
+	        ]
+}
