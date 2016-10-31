@@ -1,0 +1,172 @@
+[
+	{
+		"tittle" : "厨房",
+		"count" : [
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_975.png",
+						"goods" : "电视直销"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_208.png",
+						"goods" : "品质厨房"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_403.png",
+						"goods" : "厨房电器"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_207.png",
+						"goods" : "厨房用品"
+					}		
+		]	
+	},
+	{
+		"tittle" : "美食",
+		"count" : [
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_420.png",
+						"goods" : "电视热销"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_93.png",
+						"goods" : "进口食品"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_829.png",
+						"goods" : "营养保健"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_364.png",
+						"goods" : "特产零食"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_959.png",
+						"goods" : "粮油干货"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_822.png",
+						"goods" : "酒水茶饮"	
+					}		
+		]						
+	},
+	{
+		"tittle" : "家居",
+		"count" : [
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_980.png",
+						"goods" : "电视热销"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_192.png",
+						"goods" : "优质睡眠"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_1121.png",
+						"goods" : "家居装饰"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_1057.png",
+						"goods" : "清洁收纳"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_952.png",
+						"goods" : "家庭健身"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_1059.png",
+						"goods" : "生活电器"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_160.png",
+						"goods" : "日用配件"
+					}	
+		]							
+	},
+	{
+		"tittle" : "服饰",
+		"count" : [
+					{
+						"imgUrl" : "http://img.17ugo.com/data/images/category/icon_m_1114.png",
+						"goods" : "电视热销"
+					},
+					{
+						"imgUrl" : "http://img.17ugo.com/data/images/category/icon_m_260.png",
+						"goods" : "服装"
+					},
+					{
+						"imgUrl" : "http://img.17ugo.com/data/images/category/icon_m_353.png",
+						"goods" : "内衣"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_1005.png",
+						"goods" : "箱包"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_638.png",
+						"goods" : "鞋靴"
+					},
+					{
+						"imgUrl" : "http://img.17ugo.com/data/images/category/icon_m_282.png",
+						"goods" : "配饰"
+					}
+		]									
+	},
+	{
+		"tittle" : "珠宝",
+		"count" : [
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_912.png",
+						"goods" : "电视热销"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_517.png",
+						"goods" : "翡翠玉石"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_680.png",
+						"goods" : "宝石珍珠"
+					},
+					{
+						"imgUrl" : "http://img.17ugo.com/data/images/category/icon_m_527.png",
+						"goods" : "水晶玛瑙"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_535.png",
+						"goods" : "时尚装饰"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_1053.png",
+						"goods" : "手表太阳镜"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_1025.png",
+						"goods" : "文化收藏"
+					}
+		]					
+	},
+	{
+		"tittle" : "美妆",
+		"count" : [
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_972.png",
+						"goods" : "电视热销"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_247.png",
+						"goods" : "品牌护肤"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_170.png",
+						"goods" : "洗护护理"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_171.png",
+						"goods" : "彩妆香水"
+					},
+					{
+						"imgUrl" : "http://img.ugoshop.com/data/images/category/icon_m_843.png",
+						"goods" : "美容仪器"
+					}
+		]									
+	}
+]

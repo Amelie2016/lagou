@@ -1,0 +1,18 @@
+
+
+<div id="car">
+	<h1> car </h1>	
+<script type="text/javascript">
+	console.log(1111)
+</script>
+	<div ng-repeat="item in items track by $index">
+		<img src="{{item.imgUrl}}">
+		<p>{{item.title}}</p>
+		<p>{{item.num}}</p>
+		<button ng-click="add_num(item)">加</button>
+		<!-- 判断减号失效！！！！ -->
+		<button ng-click="dec_num(item)" ng-disabled="!item.num">减</button>
+	</div>
+
+</div>
+

@@ -1,0 +1,11 @@
+footer{position: fixed;bottom:0;height: 6rem;color:red;background-color: pink;width: 100%;display: flex}
+footer a{display: inline-block;width: 20%;height: 100%;display: flex;
+	flex-flow:column;
+	justify-content:center;align-items:center;}
+footer a>div{}	
+footer a>img{width: 3rem;height: 3rem;margin-bottom: 0.5rem}
+footer a>div{width: 4.5rem;height: 4.5rem;background-color: pink;border-radius: 50%;position: relative;top: -1.2rem}
+footer a>div>div{width: 3.8rem;height: 3.8rem;background-color: #FF504A;border-radius: 50%;position: relative;top: 0.36rem;left: 0.36rem}
+footer a>div>div>img{width: 2rem;height: 2rem;position: relative;top: 1rem;left: 0.9rem}
+#a_{;background-color:pink;position: relative;}
+#a_2{position: absolute;top: 4.2rem}

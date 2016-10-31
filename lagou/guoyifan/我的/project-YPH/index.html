@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<title>Document</title>
+	<style type="text/css">
+		*{padding: 0;margin: 0}
+		html{font-size: 10px;font-family: "微软雅黑"}
+		a{text-decoration: none;color: black}
+		ul{list-style: none;}
+	</style>
+<!-- 引入三个文件 -->
+<script type="text/javascript" src="public/js/angular.min.js"></script>
+<script type="text/javascript" src="public/js/angular-route.min.js"></script>
+<script type="text/javascript" src="public/js/angular-css.js"></script>
+
+</head>
+<body ng-app="myApp" ng-controller="indexController">
+
+	<div ng-view></div> 
+
+	<my-footer></my-footer>
+
+</body>
+<!-- 把路由器引入！（核心） -->
+<script type="text/javascript" src="route.js"></script>
+
+
+
+<!-- 这里吧脚引进来 -->
+<script type="text/javascript" src="app/directive/footer/footer.js"></script>
+<script type="text/javascript" src="app/controller/footerController.js"></script>
+<!-- 先把homeService引入 在引入 homecontroller！！ -->
+<script type="text/javascript" src="app/service/homeService.js"></script>
+<script type="text/javascript" src="app/controller/homeController.js"></script>
+<!-- 引入car的控制器 -->
+<script type="text/javascript" src="app/controller/carController.js"></script>
+<!-- 专题controller -->
+<script type="text/javascript" src="app/controller/zhuantiController.js"></script>
+
+
+
+</html>

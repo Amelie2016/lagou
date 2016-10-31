@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en" ng-app="lagou" ng-controller = "mainController">
+<head >
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<title>拉勾</title>
+	<link rel="stylesheet" type="text/css" href="main.css">
+	<script type="text/javascript" src = "public/js/angular.min.js"></script>
+	<script type="text/javascript" src = "public/js/angular-route.min.js"></script>
+	<script type="text/javascript" src = "public/js/angular-css.js"></script>
+	<script type="text/javascript" src = "public/js/route-styles.js"></script>
+	<script type="text/javascript" src = "public/js/swiper-3.3.1.min.js"></script>
+	<link rel="stylesheet" href="">
+
+</head>
+<body>
+	<div ng-view></div> 
+	<my-footer></my-footer>
+</body>
+<!-- 引入主路由 -->
+<script type="text/javascript" src="mainRoute.js"></script>
+<script type="text/javascript" src="mainController.js"></script>
+<!-- 引入每个模块的 js 文件 -->
+<!-- 引入footer模块 -->
+<script type="text/javascript" src="app/directive/footer/footer.js"></script>
+<script type="text/javascript" src="app/controller/footerController.js"></script>
+<!-- homePage页 -->
+<script type="text/javascript" src="app/controller/homeController.js"></script>
+<!-- swiper -->
+<script type="text/javascript" src="app/directive/swiper/swiper.js"></script>
+<script type="text/javascript" src="app/service/swiperService.js"></script>
+<script type="text/javascript" src="app/controller/swiperController.js"></script>
+
+
+</html>

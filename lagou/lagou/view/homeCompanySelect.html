@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name='viewport' content="width=device-width,user-scalable=no">
+	<title></title>
+	<link rel="stylesheet" href="homeCompanySelect.css">
+<!-- 	// <script type='text/javascript' src='../angular.min.js'></script> -->
+</head>
+<body>
+	<div class="companySelect" ng-app='CompanySelectOptions' ng-init='isChecked=true;'>
+		<div class="financing list">
+			<p>融资阶段</p>
+			<div>
+				<li ng-click='isChecked = true' ng-class={checkedYes:isChecked}>未融资</li>
+				<!-- <li>{{isChecked}}</li> -->
+				<li>天使轮</li>
+				<li>A轮</li>
+				<li>B轮</li>
+				<li>C轮</li>
+				<li>D轮及以上</li>
+				<li>上市公司</li>
+				<li>不需要融资</li>
+			</div>
+		</div>
+		<div class="business list">
+			<p>行业领域</p>
+			<div>
+				<li>不限</li>
+				<li>移动互联网</li>
+				<li>电子商务</li>
+				<li>社交网络</li>
+				<li>企业服务</li>
+				<li>O2O</li>
+				<li>教育</li>
+				<li>游戏</li>
+				<li>旅游</li>
+				<li>金融</li>
+				<li>医疗健康</li>
+				<li>生活服务</li>
+				<li>信息安全</li>
+				<li>数据服务</li>
+				<li>广告营销</li>
+				<li>文化娱乐</li>
+				<li>硬件</li>
+				<li>分类信息</li>
+				<li>招聘</li>
+				<li>其他</li>
+			</div>
+		</div>
+		<div class="Company_makeSure">
+			确定
+		</div>
+	</div>
+</body>
+<script type="text/javascript">
+	
+</script>
+</html>
