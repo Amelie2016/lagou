@@ -1,25 +1,25 @@
 <footer>
-  <a href="#homePage">
+  <a ui-sref="homePage">
   	  <div>
-  	  	 <img src="public/images/homePage/home_green.png" alt="...">
+  	  	 <img src="{{footerImg['/homePage'][footerImg['/homePage'].isactive]}}" alt="...">
   	  </div>
   	  <p>首页</p>
   </a>
-  <a href="#message">
+  <a ui-sref="message">
   	  <div>
-  	  	<img src="public/images/homePage/message_grey.png" alt="...">
+  	  	<img src="{{footerImg['/message'][footerImg['/message'].isactive]}}" alt="...">
   	  </div>
   	  <p>消息</p>
   </a>
-  <a href="#talk">
+  <a ui-sref="speechHome">
   	  <div>
-  	  	<img src="public/images/homePage/say_grey.png" alt="...">
+  	  	<img src="{{footerImg['/speechHome'][footerImg['/speechHome'].isactive]}}" alt="...">
   	  </div>
   	  <p>言职</p>
   </a>
-  <a href="#mine">
+  <a ui-sref="mine">
   	  <div>
-  	  	<img src="public/images/homePage/smile_grey.png" alt="...">
+  	  	<img src="{{footerImg['/mine'][footerImg['/mine'].isactive]}}" alt="...">
   	  </div>
   	  <p>我</p>
   </a>

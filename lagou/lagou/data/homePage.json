@@ -1,13 +1,10 @@
 [{
-	"name": "老干妈辣椒酱",
-	"price" : 9.8
+	"img":"http://www.lgstatic.com/i/image/M00/69/17/CgqKkVgSs1aARNYYAADuxgwkn70204.JPG"
  },
  {
-	"name": "老干爹辣椒酱",
-	"price" : 10.8
+	"img":"http://www.lgstatic.com/i/image/M00/69/4C/Cgp3O1gTLlCAWr0XAAEQkJKklQE945.PNG"
  },
  {
-	"name": "老大爷辣椒酱",
-	"price" : 10.8
+	"img":"http://www.lgstatic.com/i/image/M00/68/6C/Cgp3O1gQfAOAGDdsAABcvZ9cytQ261.PNG"
  }
 ]
