@@ -17,7 +17,10 @@ ul{list-style: none;}
 /*导航*/
 .topicSquare nav{height:1.95rem;border-bottom: 1px solid #CCCCCC;overflow-x:auto;}
 .topicSquare .nav{height:1.95rem;width: 145%;}
-.topicSquare .nav p{height:1.95rem;line-height: 1.95rem;text-align: center;padding: 0 1.175rem;font-size:0.5rem;float: left;color:#9F9F9F;}
+.topicSquare .nav li{height:1.85rem;line-height: 1.95rem;text-align: center;padding: 0 1.175rem;font-size:0.5rem;float: left;color:#9F9F9F;}
+/*点击改变样式*/
+.topicSquare .nav .current{color:#00B38A;border-bottom: 2px solid #00B38A; }
+
 /*添加*/
 .topicSquare .add{display: inline-block;width:0.725rem;height: 0.725rem;background: url(../images/lagoIMGIMG_0286_11.gif);background-size: 0.725rem;position: absolute;right:0.4rem;top:2.8rem;opacity: 0.9;}
 /*产品*/

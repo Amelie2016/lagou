@@ -11,7 +11,8 @@
 	<div class="myTopicSquare">
 		<!-- 页头 -->
 		<header>
-			<span class="back" onClick="javascript: history.go(-1);"><</span>
+			<span class="back">
+				<a href = "javascript: history.go(-1);"><</a></span>
 			<span>草稿</span>
 		</header>
 		<!-- 个人信息 -->
@@ -46,8 +47,8 @@
 						<img src="public/images/lagoIMGIMG_0287_04_03.gif" height="28" width="26" alt=""></div></dt>
 				<dd>
 					<span class="itemsTopic">关注的话题</span>
-					<span class="itemsNum">(3)</span>
-					<span class="itemsCnnt">前端，拉勾网  ></span>
+					<span class="itemsNum">{{focusNum}}</span>
+					<span class="itemsCnnt">{{focusName}}></span>
 				</dd>
 			</dl>
 			<dl>
@@ -85,156 +86,25 @@
 		<section class="myState">
 			<p class="til">我的动态</p>
 			<!-- 关注的话题 -->
-			<div class="pro">
+			<div class="pro" ng-repeat ="pro in proList">
 				<span class="focusTopic">关注了话题</span>
 				<span class="time">5分钟前</span>
 				<!-- 内容 -->
 				<div class="cnnt">
-					<div class="cnntImg"></div>
+					<div class="cnntImg">
+						<img src= {{pro.logo}} alt="">
+					</div>
 					<div>
-						<p class="cnntTil">PHP</p>
+						<p class="cnntTil">{{pro.title}}</p>
 						<span class="cnntLook"></span>
-						<span class="cnntLookNum">18K+</span>
+						<span class="cnntLookNum">{{pro.attentionCount}}</span>
 						<span class="cnntCott"></span>
-						<span class="cnntCottNum">360</span>
+						<span class="cnntCottNum">{{pro.answerCount}}</span>
 					</div>
 				</div>
 			</div>
-			<div class="pro">
-				<span class="focusTopic">关注了话题</span>
-				<span class="time">5分钟前</span>
-				<!-- 内容 -->
-				<div class="cnnt">
-					<div class="cnntImg"></div>
-					<div>
-						<p class="cnntTil">PHP</p>
-						<span class="cnntLook"></span>
-						<span class="cnntLookNum">18K+</span>
-						<span class="cnntCott"></span>
-						<span class="cnntCottNum">360</span>
-					</div>
-				</div>
-			</div>
-			<div class="pro">
-				<span class="focusTopic">关注了话题</span>
-				<span class="time">5分钟前</span>
-				<!-- 内容 -->
-				<div class="cnnt">
-					<div class="cnntImg"></div>
-					<div>
-						<p class="cnntTil">PHP</p>
-						<span class="cnntLook"></span>
-						<span class="cnntLookNum">18K+</span>
-						<span class="cnntCott"></span>
-						<span class="cnntCottNum">360</span>
-					</div>
-				</div>
-			</div>
-			<div class="pro">
-				<span class="focusTopic">关注了话题</span>
-				<span class="time">5分钟前</span>
-				<!-- 内容 -->
-				<div class="cnnt">
-					<div class="cnntImg"></div>
-					<div>
-						<p class="cnntTil">PHP</p>
-						<span class="cnntLook"></span>
-						<span class="cnntLookNum">18K+</span>
-						<span class="cnntCott"></span>
-						<span class="cnntCottNum">360</span>
-					</div>
-				</div>
-			</div>
-			<div class="pro">
-				<span class="focusTopic">关注了话题</span>
-				<span class="time">5分钟前</span>
-				<!-- 内容 -->
-				<div class="cnnt">
-					<div class="cnntImg"></div>
-					<div>
-						<p class="cnntTil">PHP</p>
-						<span class="cnntLook"></span>
-						<span class="cnntLookNum">18K+</span>
-						<span class="cnntCott"></span>
-						<span class="cnntCottNum">360</span>
-					</div>
-				</div>
-			</div>
-			<div class="pro">
-				<span class="focusTopic">关注了话题</span>
-				<span class="time">5分钟前</span>
-				<!-- 内容 -->
-				<div class="cnnt">
-					<div class="cnntImg"></div>
-					<div>
-						<p class="cnntTil">PHP</p>
-						<span class="cnntLook"></span>
-						<span class="cnntLookNum">18K+</span>
-						<span class="cnntCott"></span>
-						<span class="cnntCottNum">360</span>
-					</div>
-				</div>
-			</div>
-			<div class="pro">
-				<span class="focusTopic">关注了话题</span>
-				<span class="time">5分钟前</span>
-				<!-- 内容 -->
-				<div class="cnnt">
-					<div class="cnntImg"></div>
-					<div>
-						<p class="cnntTil">PHP</p>
-						<span class="cnntLook"></span>
-						<span class="cnntLookNum">18K+</span>
-						<span class="cnntCott"></span>
-						<span class="cnntCottNum">360</span>
-					</div>
-				</div>
-			</div>
-			<div class="pro">
-				<span class="focusTopic">关注了话题</span>
-				<span class="time">5分钟前</span>
-				<!-- 内容 -->
-				<div class="cnnt">
-					<div class="cnntImg"></div>
-					<div>
-						<p class="cnntTil">PHP</p>
-						<span class="cnntLook"></span>
-						<span class="cnntLookNum">18K+</span>
-						<span class="cnntCott"></span>
-						<span class="cnntCottNum">360</span>
-					</div>
-				</div>
-			</div>
-			<div class="pro">
-				<span class="focusTopic">关注了话题</span>
-				<span class="time">5分钟前</span>
-				<!-- 内容 -->
-				<div class="cnnt">
-					<div class="cnntImg"></div>
-					<div>
-						<p class="cnntTil">PHP</p>
-						<span class="cnntLook"></span>
-						<span class="cnntLookNum">18K+</span>
-						<span class="cnntCott"></span>
-						<span class="cnntCottNum">360</span>
-					</div>
-				</div>
-			</div>
-			<div class="pro">
-				<span class="focusTopic">关注了话题</span>
-				<span class="time">5分钟前</span>
-				<!-- 内容 -->
-				<div class="cnnt">
-					<div class="cnntImg"></div>
-					<div>
-						<p class="cnntTil">PHP</p>
-						<span class="cnntLook"></span>
-						<span class="cnntLookNum">18K+</span>
-						<span class="cnntCott"></span>
-						<span class="cnntCottNum">360</span>
-					</div>
-				</div>
-			</div>
+
+
 		</section>
 		<!-- 没有更多了 -->
 		<section class="noMore">

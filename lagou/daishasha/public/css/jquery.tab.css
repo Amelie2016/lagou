@@ -4,12 +4,12 @@
 	list-style: none;
 	position: relative;
 }
-.z-table li{
+/*.z-table li{
 	display: inline-block;
 	text-align: center;
 	padding: 10px 8px;
-}
-.z-table li:hover{
+}*/
+.z-table p:hover{
 	color: #29B572;
 }
 .z-active{
@@ -17,9 +17,9 @@
 }
 .z-tips{
 	position: absolute;
-    height: 3px;
+    height: 1px;
     width: 70px;
-     display: none; 
+    display: none; 
     bottom: 0;
     background-color: #29B572;
 }

@@ -28,14 +28,14 @@ var app = angular.module("lagou",["ui.router","angularCSS"])
 			url : "/topicSquare",
 			templateUrl : "view/topicSquare.html",
 			controller : "topicSquareController",
-			css:["public/css/topicSquare.css","public/css/jquery.tab.css"]
+			css:["public/css/topicSquare.css"]
 		})
-		// .state("myTopicSquare",{
-		// 	url : "/myTopicSquare",
-		// 	templateUrl : "view/myTopicSquare.html",
-		// 	// controller :"myTopicSquareController",
-		// 	css:["public/css/myTopicSquare.css"]
-		// })
+		.state("myTopicSquare",{
+			url : "/myTopicSquare",
+			templateUrl : "view/myTopicSquare.html",
+			controller :"myTopicSquareController",
+			css:["public/css/myTopicSquare.css"]
+		})
 		// .state("askAQuestion",{
 		// 	url : "/askAQuestion",
 		// 	templateUrl : "view/askAQuestion.html",

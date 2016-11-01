@@ -10,9 +10,10 @@
 	<div class="topicSquare">
 		<!-- 页头 -->
 		<header>
-			<a ui-sref="topicSquare">
-				<div class="back"  onClick="javascript: history.go(-1);"></div>
+			<a ui-sref="topicSquare" href = "javascript: history.go(-1);">
+				<div class="back"></div>
 			</a>
+			
 			<div class="qus">话题广场</div>
 			<a ui-sref="myTopicSquare">
 				<div class="mine"></div>
@@ -22,15 +23,15 @@
 		<main>
 			<!-- 导航 -->
 			<nav>
-				<div class="nav z-table" id="tab3">
-					<p>全部</p>
-					<p>公司</p>
-					<p>城市</p>
-					<p>职位</p>
-					<p>行业</p>
-					<p>兴趣</p>
-					<p>爱好</p>
-				</div>	
+				<ul class="nav">
+					<li ng-class="bg[1]" ng-click="isCurrent(1)">全部</li>
+					<li ng-class="bg[2]" ng-click="isCurrent(2)">公司</li>
+					<li ng-class="bg[3]" ng-click="isCurrent(3)">城市</li>
+					<li ng-class="bg[4]" ng-click="isCurrent(4)">职位</li>
+					<li ng-class="bg[5]" ng-click="isCurrent(5)">行业</li>
+					<li ng-class="bg[6]" ng-click="isCurrent(6)">兴趣</li>
+					<li ng-class="bg[7]" ng-click="isCurrent(7)">爱好</li>
+				</ul>	
 			<!-- 添加 -->
 				<span class="add"></span>
 			</nav>
@@ -48,7 +49,7 @@
 					<span class="cnnt_4"></span>
 					<span class="cnnt_5">{{pro.answerCount}}</span>
 					<!-- 关注 -->
-					<div class= {{pro.hasConcerned}} >关注</div>
+					<div ng-class= "{true:'true',false:'false'}[pro.hasConcerned]" ng-click="addFocus(pro)">关注</div>
 				</div>
 			</section>
 			
