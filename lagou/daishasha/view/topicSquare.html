@@ -1,12 +1,12 @@
-<!-- <!doctype html>
+<!doctype html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width,height=device-height">
 	<title>话题广场</title>
-	<link rel="stylesheet" href="topicSquare.css">
+	<link rel="stylesheet" href="public/css/topicSquare.css">
 </head>
-<body> -->
+<body>
 	<div class="topicSquare">
 		<!-- 页头 -->
 		<header>
@@ -22,7 +22,7 @@
 		<main>
 			<!-- 导航 -->
 			<nav>
-				<div class="nav">
+				<div class="nav z-table" id="tab3">
 					<p>全部</p>
 					<p>公司</p>
 					<p>城市</p>
@@ -35,140 +35,24 @@
 				<span class="add"></span>
 			</nav>
 			<!-- 产品 -->
-			<section>
-			<!-- 图片 -->
-				<div class="proImg"></div>
-			<!-- 内容 -->
+			<section ng-repeat="pro in proList">
+				<!-- 图片 -->
+				<div class="proImg">
+					<img src= {{pro.logo}} alt="">
+				</div>
+				<!-- 内容 -->
 				<div class="cnnt">
-					<p class="cnnt_1">职场</p>
+					<p class="cnnt_1">{{pro.title}}</p>
 					<span class="cnnt_2"></span>
-					<span class="cnnt_3">33K+</span>
+					<span class="cnnt_3">{{pro.attentionCount}}</span>
 					<span class="cnnt_4"></span>
-					<span class="cnnt_5">148</span>
-				<!-- 关注 -->
-					<div class="focus">关注</div>
+					<span class="cnnt_5">{{pro.answerCount}}</span>
+					<!-- 关注 -->
+					<div class= {{pro.hasConcerned}} >关注</div>
 				</div>
 			</section>
-			<section>
-			<!-- 图片 -->
-				<div class="proImg"></div>
-			<!-- 内容 -->
-				<div class="cnnt">
-					<p class="cnnt_1">运营</p>
-					<span class="cnnt_2"></span>
-					<span class="cnnt_3">33K+</span>
-					<span class="cnnt_4"></span>
-					<span class="cnnt_5">148</span>
-				<!-- 关注 -->
-					<div class="focusYet">关注</div>
-				</div>
-			</section><section>
-			<!-- 图片 -->
-				<div class="proImg"></div>
-			<!-- 内容 -->
-				<div class="cnnt">
-					<p class="cnnt_1">职场</p>
-					<span class="cnnt_2"></span>
-					<span class="cnnt_3">33K+</span>
-					<span class="cnnt_4"></span>
-					<span class="cnnt_5">148</span>
-				<!-- 关注 -->
-					<div class="focus">关注</div>
-				</div>
-			</section><section>
-			<!-- 图片 -->
-				<div class="proImg"></div>
-			<!-- 内容 -->
-				<div class="cnnt">
-					<p class="cnnt_1">职场</p>
-					<span class="cnnt_2"></span>
-					<span class="cnnt_3">33K+</span>
-					<span class="cnnt_4"></span>
-					<span class="cnnt_5">148</span>
-				<!-- 关注 -->
-					<div class="focus">关注</div>
-				</div>
-			</section><section>
-			<!-- 图片 -->
-				<div class="proImg"></div>
-			<!-- 内容 -->
-				<div class="cnnt">
-					<p class="cnnt_1">职场</p>
-					<span class="cnnt_2"></span>
-					<span class="cnnt_3">33K+</span>
-					<span class="cnnt_4"></span>
-					<span class="cnnt_5">148</span>
-				<!-- 关注 -->
-					<div class="focus">关注</div>
-				</div>
-			</section>
-			<section>
-			<!-- 图片 -->
-				<div class="proImg"></div>
-			<!-- 内容 -->
-				<div class="cnnt">
-					<p class="cnnt_1">职场</p>
-					<span class="cnnt_2"></span>
-					<span class="cnnt_3">33K+</span>
-					<span class="cnnt_4"></span>
-					<span class="cnnt_5">148</span>
-				<!-- 关注 -->
-					<div class="focus">关注</div>
-				</div>
-			</section><section>
-			<!-- 图片 -->
-				<div class="proImg"></div>
-			<!-- 内容 -->
-				<div class="cnnt">
-					<p class="cnnt_1">职场</p>
-					<span class="cnnt_2"></span>
-					<span class="cnnt_3">33K+</span>
-					<span class="cnnt_4"></span>
-					<span class="cnnt_5">148</span>
-				<!-- 关注 -->
-					<div class="focus">关注</div>
-				</div>
-			</section><section>
-			<!-- 图片 -->
-				<div class="proImg"></div>
-			<!-- 内容 -->
-				<div class="cnnt">
-					<p class="cnnt_1">职场</p>
-					<span class="cnnt_2"></span>
-					<span class="cnnt_3">33K+</span>
-					<span class="cnnt_4"></span>
-					<span class="cnnt_5">148</span>
-				<!-- 关注 -->
-					<div class="focus">关注</div>
-				</div>
-			</section><section>
-			<!-- 图片 -->
-				<div class="proImg"></div>
-			<!-- 内容 -->
-				<div class="cnnt">
-					<p class="cnnt_1">职场</p>
-					<span class="cnnt_2"></span>
-					<span class="cnnt_3">33K+</span>
-					<span class="cnnt_4"></span>
-					<span class="cnnt_5">148</span>
-				<!-- 关注 -->
-					<div class="focus">关注</div>
-				</div>
-			</section><section>
-			<!-- 图片 -->
-				<div class="proImg"></div>
-			<!-- 内容 -->
-				<div class="cnnt">
-					<p class="cnnt_1">职场</p>
-					<span class="cnnt_2"></span>
-					<span class="cnnt_3">33K+</span>
-					<span class="cnnt_4"></span>
-					<span class="cnnt_5">148</span>
-				<!-- 关注 -->
-					<div class="focus">关注</div>
-				</div>
-			</section>
+			
 		</main>
 	</div>
 <!-- </body>
-</html> -->
+</html>

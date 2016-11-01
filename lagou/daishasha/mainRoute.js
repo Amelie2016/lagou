@@ -27,26 +27,26 @@ var app = angular.module("lagou",["ui.router","angularCSS"])
         .state("topicSquare",{
 			url : "/topicSquare",
 			templateUrl : "view/topicSquare.html",
-			// controller : "topicSquareController",
-			css:["public/css/topicSquare.css"]
+			controller : "topicSquareController",
+			css:["public/css/topicSquare.css","public/css/jquery.tab.css"]
 		})
-		.state("myTopicSquare",{
-			url : "/myTopicSquare",
-			templateUrl : "view/myTopicSquare.html",
-			// controller :"myTopicSquareController",
-			css:["public/css/myTopicSquare.css"]
-		})
-		.state("askAQuestion",{
-			url : "/askAQuestion",
-			templateUrl : "view/askAQuestion.html",
-			// controller : "askAQuestionController",
-			css:["public/css/askAQuestion.css"]
-		})
-		.state("setting",{
-			url : "/setting",
-			templateUrl : "view/setting.html",
-			// controller : "settingController",
-			css:["public/css/setting.css"]
-		})
+		// .state("myTopicSquare",{
+		// 	url : "/myTopicSquare",
+		// 	templateUrl : "view/myTopicSquare.html",
+		// 	// controller :"myTopicSquareController",
+		// 	css:["public/css/myTopicSquare.css"]
+		// })
+		// .state("askAQuestion",{
+		// 	url : "/askAQuestion",
+		// 	templateUrl : "view/askAQuestion.html",
+		// 	// controller : "askAQuestionController",
+		// 	css:["public/css/askAQuestion.css"]
+		// })
+		// .state("setting",{
+		// 	url : "/setting",
+		// 	templateUrl : "view/setting.html",
+		// 	// controller : "settingController",
+		// 	css:["public/css/setting.css"]
+		// })
 
 })
