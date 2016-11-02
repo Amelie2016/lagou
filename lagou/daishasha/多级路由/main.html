@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+
+<head>
+    <title></title>
+    <style type="text/css">
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    footer {
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
+
+    footer ul li {
+        list-style: none;
+        padding: 15px 0;
+        background: gray;
+        float: left;
+        width: 33%;
+        font-size: 30px;
+        color: white;
+        text-align: center;
+    }
+    </style>
+    <script type="text/javascript" src="../angular.min.js"></script>
+    <script type="text/javascript" src="../angular-ui-router.js"></script>
+</head>
+
+<body>
+    <div ui-view>
+        这是原有内容
+    </div>
+    <footer>
+        <ul>
+            <li><a ui-sref="home">首页</a></li>
+            <li><a ui-sref="items">产品中心</a></li>
+            <li><a ui-sref="mine">个人中心</a></li>
+        </ul>
+    </footer>
+</body>
+<script type="text/javascript">
+var app = angular.module('myApp', ["ui.router"])
+    .config(function($stateProvider, $urlRouterProvider) {
+        $stateProvider.state("home", {
+            url: "/home",
+            templateUrl: "first/home.html"
+        }).state("items", {
+            url: "/items",
+            templateUrl: "first/items.html"
+        }).state("mine", {
+            url: "/mine",
+            templateUrl: "first/mine.html"
+        })
+
+
+        .state("home.tv", {
+            url: "/tv",
+            templateUrl: "homeSecond/TV.html"
+        })
+
+        .state("home.web", {
+            url: "/web",
+            templateUrl: "homeSecond/WEB.html"
+        })
+
+
+        .state("home.person", {
+            url: "/person",
+            templateUrl: "homeSecond/PERSON.html"
+        })
+
+
+
+
+        .state("home.replace", {
+            url: "/replace",
+            templateUrl: "homeSecond/replace.html"
+        })
+
+
+
+        .state("replaceMain", {
+            url: "/replaceMain",
+            templateUrl: "homeSecond/replaceMain.html"
+        })
+
+
+
+
+        .state("home.web.web1", {
+            url: "/web1",
+            templateUrl: "three/web1.html"
+        })
+
+
+
+        .state("home.web.web2", {
+            url: "/web2",
+            templateUrl: "three/web2.html"
+        }).state("home.web1", {
+            url: "/web1",
+            templateUrl: "three/web1.html"
+        }).state("web1", {
+            url: "/web1",
+            templateUrl: "three/web1.html"
+        });
+        $urlRouterProvider.when("","home")
+    })
+</script>
+
+</html>

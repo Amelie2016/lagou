@@ -1,0 +1,38 @@
+<style type="text/css">
+    section{
+        margin: 0 auto;
+        width:60%;
+    }
+    section ul{
+        width:100%;
+        margin:0;
+        padding:0;
+    }
+    section ul li{
+        display: inline-block;
+        width:32%;
+        padding:10px 0;
+        background: blue;
+        color : white;
+        text-align: center;
+    }
+    li a{
+        color:white;
+    }
+    .homeDiv{
+        border:1px solid gray;
+        width:100%;
+        height:300px;
+        margin: 30px auto;
+        border-radius: 5px;
+    }
+</style>
+<section>
+    <h1>Hoem</h1>
+    <ul>
+        <li><a ui-sref="home.tv">TV</a></li>
+        <li><a ui-sref="home.web">WEB</a></li>
+        <li><a ui-sref="home.person">PERSON</a></li>
+    </ul>
+    <div ui-view class='homeDiv'></div>
+</section>

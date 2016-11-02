@@ -28,16 +28,18 @@ ul{list-style: none;}
 /*关注的话题 回答 提问 点赞*/
 .myTopicSquare .focusItems{font-size: 0.8rem;width: 100%;margin-bottom: 0.6rem;}
 .myTopicSquare .focusItems dl{background-color: white;line-height:2.7rem; height: 2.7rem;}
-.myTopicSquare .focusItems dl dt{float: left;width: 12%;box-sizing:border-box;padding: 0rem 0.3rem 0.5rem 0.8rem;}
-.myTopicSquare .focusItems dd{float: left;border-bottom: 1px solid #DBDBDB;width:88%;box-sizing:border-box;padding-right:0.8rem;font-size: 0.65rem;overflow: hidden;height: 2.7rem;}
+.myTopicSquare .focusItems dl dt{float: left;width: 12%;box-sizing:border-box;padding: 0rem 0.3rem 0.5rem 0.8rem;height: 2.7rem;}
+.myTopicSquare .focusItems dd{float: left;border-bottom: 1px solid #DBDBDB;width:88%;box-sizing:border-box;padding-right:0.8rem;font-size: 0.65rem;overflow: hidden;height: 2.7rem;line-height: 2.7rem;position: relative;}
 .myTopicSquare .focusItems dl:nth-of-type(4) dd{border-bottom: none;}
 
 
 .myTopicSquare .itemsIcon1 div{width: 0.65rem;height: 0.7rem;}
 .myTopicSquare .itemsIcon1 img{width: 100%;height: 100%;}
 
+.myTopicSquare .focusItems dd span{display: inline-block;;height: 100%;float: left;}
 .myTopicSquare .focusItems .itemsNum{color:#DBDBDB ;}
-.myTopicSquare .focusItems .itemsCnnt{color:#DBDBDB ;float: right;width: 10rem;height:100%;display:inline-block;text-align: right;}
+.myTopicSquare .focusItems .itemsCnnt{color:#DBDBDB ;width: 10rem;height:2.7rem;text-align: right;float: right;margin-right: 1rem;}
+.myTopicSquare .focusItems .itemsNext{color:#DBDBDB ;position: absolute;right: 1rem;}
 
 /*我的动态*/
 .myTopicSquare .myState{width: 100%;}
@@ -60,3 +62,22 @@ ul{list-style: none;}
 /*没有更多了*/
 .myTopicSquare .noMore{width: 100%;padding-top: 0.6rem;background:#F0F1F5;}
 .myTopicSquare .noMore p{height:2.25rem;line-height: 2.25rem;text-align: center; background: white;font-size: 0.65rem;color: #676767;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
